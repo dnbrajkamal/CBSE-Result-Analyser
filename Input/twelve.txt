@@ -1,6 +1,6 @@
 
 
-DATE:- 13/07/2020    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2020      REGION: CHANDIGARH         PAGE:-       1
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       1
                                                 ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,52 +9,1459 @@ NO      L X                                                     SUB CD  SUB CD  
                                                                 MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SCHOOL : - 24944   K V BHADARWAH DISTT DODA J&K                    
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
 
-13695381   F AKRITI CHANDAIL                                     301     302     042     043     044              A1 A2 A1    PASS                      
-                                                                086  B1 077  B2 070  C1 071  C1 078  C1     
-13695382   F ARUSHI GUPTA                                        301     302     042     043     044              A1 A2 A1    PASS                      
-                                                                082  B2 083  B1 070  C1 084  B1 088  B1     
-13695383   F ISHIKA PARIHAR                                      301     302     042     043     044              A2 A2 A1    PASS                      
-                                                                076  C2 072  C1 069  C1 072  C1 074  C1     
-13695384   F NANCY SHARMA                                        301     041     042     043     044              A1 A2 A1    PASS                      
-                                                                084  B2 073  B2 072  C1 082  B1 088  B1     
-13695385   F PURODHIKA GUPTA                                     301     041     042     043     044              A1 A2 A1    PASS                      
-                                                                083  B2 067  C1 072  C1 082  B1 089  B1     
-13695386   F SHRIYA MANHAS                                       301     041     042     043     083              A1 A1 A1    PASS                      
-                                                                095  A1 077  B2 080  B1 084  B1 087  B2     
-13695387   F SUHANI KOTWAL                                       301     302     042     043     044              A1 A1 A1    PASS                      
-                                                                083  B2 080  B1 075  B2 080  B1 078  C1     
-13695388   F TANYIA BLORIA                                       301     302     042     043     044              A2 A2 A1    PASS                      
-                                                                081  C1 078  B1 065  C2 069  C1 081  B2     
-13695389   F SIMRAN KOTWAL                                       301     302     042     043     044              A2 A1 A1    PASS                      
-                                                                089  B1 082  B1 067  C2 075  B2 084  B2     
-13695390   M ANUJ KOTWAL                                         301     302     042     043     044              A2 A1 A1    PASS                      
-                                                                073  C2 086  A2 085  A2 089  A2 085  B2     
+22685403   M ROHIT KUMAR SINGH                                   301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 086  B1 083  B1 067  B1 071  B1 072  B1 078  B2
+22685404   M SANT KUMAR YADAV                                    301     302     041     042     043     048      A2 A1 A1    PASS                      
+                                                                 080  B2 083  B1 066  B2 083  A1 079  B1 089  A2
+22685405   M PRIYANSHU KUMAR SAHU                                301     302     048     042     043     041      A1 A1 A1    PASS                      
+                                                                 081  B2 085  B1 057  D2 053  D1 053  D1 028  E 
+22685406   M YASH RAJ                                            301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 073  C1 091  A1 047  D1 060  C1 060  C1 083  B1
+22685407   M SATYAM KUMAR SINGH                                  301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 082  B1 092  A1 086  A1 082  A1 090  A1 090  A1
+22685408   M PRATYUSH GUPTA                                      301     302     041     042     043     048      A1 B2 B2    PASS                      
+                                                                 075  C1 070  C2 045  D2 053  D1 052  D2 081  B1
+22685409   M PRINCE KUMAR                                        301     302     041     042     043     048      B2 B2 B2    PASS                      
+                                                                 071  C1 086  B1 046  D1 055  D1 056  C2 076  B2
+22685410   M AMANDEEP SINGH                                      301     302     041     042     048     043      B2 B2 B2    PASS                      
+                                                                 084  B1 075  C1 046  D1 051  D2 083  B1 038  E 
 
-13695391   M ASHIT KUMAR                                         301     041     042     043     044              A1 A1 A1    PASS                      
-                                                                080  C1 066  C1 079  B1 082  B1 094  A2     
-13695392   M AKHILESH SHARMA                                     301     041     042     043     044              A2 A2 A2    PASS                      
-                                                                064  D1 067  C1 066  C2 065  C2 071  C2     
-13695393   M AKASH KUMAR MANHAS                                  301     041     042     043     083              A1 A1 A1    PASS                      
-                                                                063  D1 073  B2 084  B1 086  B1 081  C1     
-13695394   M MOHAMED MUBBASHIR JOHN                              301     041     042     043     083              A2 A1 A1    PASS                      
-                                                                071  C2 067  C1 056  D1 069  C1 074  D1     
-13695395   M RUDRA YOGI                                          301     302     042     043     044              A2 A2 A2    PASS                      
-                                                                081  C1 083  B1 069  C1 079  B1 090  B1     
-13695396   M SAKHSHAM KOTWAL                                     301     302     042     043     044              A1 A1 A1    PASS                      
-                                                                073  C2 087  A2 085  A2 084  B1 095  A1     
-13695397   M HIM SHIKHAR KATOCH                                  301     041     042     043     044              A1 A1 A1    PASS                      
-                                                                082  B2 091  A2 083  B1 093  A2 092  A2     
-13695398   M VISHANT CHARAK                                      301     041     042     043     083              A1 A1 A1    PASS                      
-                                                                079  C1 069  C1 072  C1 068  C1 076  C2     
-13695399   M KAMALJEET SHARMA                                    301     041     042     043     083              A2 A2 A2    PASS                      
-                                                                073  C2 056  D1 066  C2 074  B2 072  D1     
-13695400   M HEMAL KUMAR                                         301     041     042     043     083              A1 A1 A2    PASS                      
-                                                                080  C1 087  A2 076  B2 093  A2 090  B1     
+22685411   M AMARJIT KUMAR MAHATO                                301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 094  A1 085  B1 071  B1 073  B1 071  B2 083  B1
+22685412   M NAVNEET MANIKPURI                                   301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 077  B2 083  B1 061  B2 075  A2 072  B1 076  B2
+22685413   M AMAR SINHA                                          301     302     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 088  A2 083  B1 086  A1 080  A2 089  A1 087  A2
+22685414   M PUSKAR KUMAR THAKUR                                 301     302     041     042     043     048      A1 A1 A2    PASS                      
+                                                                 069  C2 084  B1 047  D1 053  D1 052  D2 078  B2
+22685415   M AYUSH SINGH                                         301     302     041     042     043     048      A1 A2 B2    PASS                      
+                                                                 086  B1 073  C2 046  D1 063  B2 064  C1 092  A1
+22685416   M UTKARSH MISHRA                                      301     302     041     042     043     048      A1 A2 A2    PASS                      
+                                                                 080  B2 084  B1 064  B2 055  D1 064  C1 089  A2
+22685417   M LOKESH KUMAR                                        301     302     041     042     048     043      A1 A1 A1    PASS                      
+                                                                 081  B2 086  B1 046  D1 052  D2 085  A2 036  E 
+22685418   M ROHIT KUMAR CHOUHAN                                 301     302     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 088  A2 087  A2 052  C2 081  A2 072  B1 079  B2
+22685419   M CHIRANJIT KUMAR CHOUDHARY                           301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 091  A2 083  B1 046  D1 061  C1 061  C1 079  B2
+22685420   M SOURAV KUMAR DEY                                    301     302     041     042     043     048      A1 A1 A2    PASS                      
+                                                                 088  A2 084  B1 062  B2 065  B2 073  B1 088  A2
 
-13695401   M PRAJUAL KOTWAL                                      301     041     042     043     044              A1 A1 A1    PASS                      
-                                                                076  C2 080  B1 075  B2 084  B1 071  C2     
+22685421   M CHANDAN KUMAR CHOUDHARY                             301     302     041     042     043     048      A1 A2 A2    PASS                      
+                                                                 076  C1 087  A2 046  D1 061  C1 060  C1 086  A2
+22685422   M SHUBHAM KUMAR                                       301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 074  C1 082  B2 046  D1 063  B2 054  D1 059  D1
+22685423   M ARIJEET KUMAR MISHRA                                301     302     048     042     043     041      A1 A2 A2    COMP               043 041
+                                                                 086  B1 087  A2 063  D1 053  D1 040  E  033  E 
+22685424   M ANURAG KUMAR                                        301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 078  B2 075  C1 048  D1 053  D1 068  B2 076  B2
+22685425   M SAHIL KUMAR                                         301     302     041     042     043     048      A1 A2 A2    PASS                      
+                                                                 073  C1 073  C2 067  B1 062  C1 069  B2 067  C2
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       2
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685426   M RONAK KUMAR SINGH                                   301     302     048     042     043     041      A1 A1 A1    COMP               043 041
+                                                                 059  D1 051  D2 050  D2 051  D2 033  E  024  E 
+22685427   M NIKHIL DEY                                          301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 088  A2 076  C1 048  D1 058  C2 061  C1 076  B2
+22685428   M AYUSH KUMAR VERMA                                   301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 069  C2 061  D1 053  C1 062  C1 056  C2 074  C1
+22685429   M RUPESH KUMAR PANDEY                                 301     302     041     042     043     048      A1 B2 B2    PASS                      
+                                                                 095  A1 093  A1 084  A2 072  B1 083  A2 091  A1
+22685430   M RISHI KUMAR GUPTA                                   301     302     041     042     043     048      A2 A2 A2    PASS                      
+                                                                 076  C1 080  B2 048  D1 054  D1 055  D1 084  B1
+
+22685431   M KRISHNA KUMAR SAW                                   301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 080  B2 084  B1 051  C2 062  C1 075  B1 079  B2
+22685432   M ARPIT KUMAR                                         301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 059  D1 073  C2 045  D2 052  D2 051  D2 062  D1
+22685433   M AYUSH TIWARY                                        301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 086  B1 077  C1 046  D1 059  C1 068  B2 080  B1
+22685434   M ARYAN                                               301     302     048     042     043     041      A2 A1 A2    PASS                      
+                                                                 062  D1 068  C2 070  C1 052  D2 052  D2 029  E 
+22685435   M VINAYAK SHARMA                                      301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 088  A2 081  B2 047  D1 065  B2 068  B2 082  B1
+22685436   M SUMIT KUMAR RAWANI                                  301     302     041     042     043     048      A1 A1 A2    PASS                      
+                                                                 080  B2 091  A1 073  B1 079  A2 090  A1 087  A2
+22685437   M KISHAN KUMAR RAY                                    301     302     048     042     043     041      A1 A1 A1    PASS                      
+                                                                 068  C2 077  C1 071  C1 053  D1 050  D2 033  E 
+22685438   M RUPAM CHANDRA                                       301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 073  C1 091  A1 052  C2 059  C1 053  D1 081  B1
+22685439   M ADITYA KUMAR SINGH                                  301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 067  C2 069  C2 045  D2 059  C1 055  D1 079  B2
+22685440   M ADARSH KUMAR                                        301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 083  B1 091  A1 067  B1 055  D1 087  A2 091  A1
+
+22685441   M KUNDAN KUMAR KESHRI                                 301     302     041     042     043     048      B2 B2 B2    PASS                      
+                                                                 084  B1 077  C1 047  D1 060  C1 072  B1 087  A2
+22685442   M RAHUL KUMAR                                         301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 066  C2 078  C1 053  C1 052  D2 058  C2 080  B1
+22685443   M DAKSH SUMAN                                         301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 074  C1 085  B1 059  C1 061  C1 065  B2 086  A2
+22685444   M AYUSH GOSWAMI                                       301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 066  C2 066  D1 046  D1 059  C1 055  D1 084  B1
+22685445   M ADITYA KUMAR SAW                                    301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 054  D1 066  D1 045  D2 052  D2 065  B2 083  B1
+22685446   M RITIK KUMAR CHOURASIA                               301     322     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 059  D1 082  A1 055  C1 057  C2 079  B1 088  A2
+22685447   M VINAYAK PANDEY                                      301     302     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 086  B1 090  A2 098  A1 062  C1 059  C2 092  A1
+22685448   M ADARSH PRANAY                                       301     322     041     042     048     043      A2 A2 A1    PASS                      
+                                                                 067  C2 079  A2 045  D2 051  D2 069  C2 040  E 
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       3
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685449   M ADITYA KUMAR GUPTA                                  301     302     044     042     043     048      A2 A1 A2    PASS                      
+                                                                 065  C2 045  D2 058  D1 051  D2 050  D2 069  C2
+22685450   M SAKSHAM KUMAR                                       301     322     041     042     043     048      A1 B1 A1    PASS                      
+                                                                 097  A1 100  A1 069  B1 073  B1 082  A2 096  A1
+
+22685451   M AMAN KUMAR PATHAK                                   301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 075  C1 077  C1 063  B2 076  A2 084  A2 093  A1
+22685452   M SHIV KUMAR SINGH                                    301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 071  C1 072  D1 046  D1 053  D1 066  B2 079  B2
+22685453   M KUMAR ANUBHAV                                       301     302     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 088  A2 079  B2 070  B1 071  B1 082  A2 087  A2
+22685454   M PRATYUSH KUMAR SHARMA                               301     322     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 075  C1 089  A1 045  D2 063  B2 067  B2 077  B2
+22685455   M AVIK SINHA                                          301     065     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 077  B2 094  A2 082  B1 053  D1 065  B2 088  A2
+22685456   M GAURAV SAW                                          301     302     044     042     043     048      A2 A2 A2    PASS                      
+                                                                 080  B2 045  D2 053  D2 052  D2 052  D2 069  C2
+22685457   M DEBTIRTHO GHOSH                                     301     065     044     042     043     048      A2 A2 A2    PASS                      
+                                                                 086  B1 084  C1 079  B1 059  C1 068  B2 086  A2
+22685458   M RAVI MAHATO                                         301     302     044     042     043     048      A1 A2 A1    PASS                      
+                                                                 082  B1 080  B2 074  B2 055  D1 064  C1 080  B1
+22685459   M ISHAN SHARAN                                        301     065     044     042     043     048      A2 A1 A1    PASS                      
+                                                                 092  A1 059  D2 062  C2 052  D2 056  C2 083  B1
+22685460   M SAGAR KUMAR SAW                                     301     065     044     042     043     048      A2 B2 A2    PASS                      
+                                                                 075  C1 061  D2 053  D2 052  D2 052  D2 064  D1
+
+22685461   M KARAN KUMAR SAHU                                    301     065     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 082  B1 075  C2 065  C1 060  C1 069  B2 086  A2
+22685462   M AKASH PANDEY                                        301     065     044     042     043     048      A2 A1 A1    PASS                      
+                                                                 082  B1 074  C2 067  C1 055  D1 053  D1 081  B1
+22685463   M SHRISTI NARAYAN PANDEY                              301     302     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 087  A2 091  A1 063  C2 053  D1 053  D1 082  B1
+22685464   M NACHIKET KUMAR PRAKASH                              301     322     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 084  B1 074  A2 083  B1 061  C1 084  A2 087  A2
+22685465   M RAJA GUPTA                                          301     302     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 088  A2 090  A2 075  B2 071  B1 073  B1 081  B1
+22685466   M ABHISHEK KUMAR                                      301     302     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 064  C2 074  C1 053  D2 052  D2 052  D2 079  B2
+22685467   M ARJO CHATTERJEE                                     301     302     044     042     043     048      A1 A1 A2    PASS                      
+                                                                 088  A2 076  C1 072  B2 052  D2 056  C2 090  A1
+22685468   M SUMIT KUMAR                                         301     322     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 080  B2 082  A1 051  C2 060  C1 062  C1 075  C1
+22685469   M NAVEEN KUMAR RANJAN                                 301     302     044     042     043     048      A2 A1 A1    PASS                      
+                                                                 064  C2 078  C1 081  B1 056  C2 062  C1 077  B2
+22685470   M VITREK PATEL                                        301     322     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 089  A2 083  A1 093  A1 069  B1 090  A1 091  A1
+
+22685471   M MAYANK KUMAR TAMRAKAR                               301     322     041     042     043     048      A1 A2 B1    PASS                      
+                                                                 076  C1 070  B1 046  D1 051  D2 051  D2 059  D1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       4
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685472   M SURAJ KUMAR MODI                                    301     302     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 076  C1 081  B2 083  B1 071  B1 074  B1 085  A2
+22685473   M SHUBHAM PAL                                         301     065     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 076  C1 065  D1 069  C1 061  C1 072  B1 071  C1
+22685474   M KUMAR AKARSH                                        301     065     048     042     043     041      A2 A1 A1    PASS                      
+                                                                 086  B1 083  C1 073  C1 051  D2 052  D2 035  E 
+22685475   M MD SHADAB ANSARI                                    301     302     044     042     048     043      A2 A2 A2    PASS                      
+                                                                 062  D1 068  C2 057  D1 050  D2 066  C2 039  E 
+22685476   M ADITYA SINGH                                        301     302     044     042     043     048      A1 A1 A2    PASS                      
+                                                                 083  B1 091  A1 071  C1 052  D2 052  D2 080  B1
+22685477   M SUJAL SINHA                                         301     065     041     042     043     048      A2 B1 A1    PASS                      
+                                                                 081  B2 070  D1 044  D2 051  D2 051  D2 059  D1
+22685478   M KUNDAN KUMAR                                        301     065     041     042     043     048      A1 A2 A2    PASS                      
+                                                                 058  D1 080  C1 045  D2 051  D2 052  D2 070  C1
+22685479   M AASHISH KUMAR                                       301     065     044     042     043     048      A1 A2 A1    PASS                      
+                                                                 081  B2 073  D1 053  D2 052  D2 051  D2 067  C2
+22685480   M SHIVANSHU RANJAN                                    301     065     041     042     043     048      A2 A1 A1    PASS                      
+                                                                 069  C2 056  D2 045  D2 053  D1 052  D2 057  D2
+
+22685481   M SHAANDITYA RAJ                                      301     065     048     042     043     041      A1 A2 A1    PASS                      
+                                                                 062  D1 064  D1 050  D2 051  D2 051  D2 033  E 
+22685482   M AYUSH KUMAR SINGH                                   301     065     041     042     043     048      A2 A1 A2    PASS                      
+                                                                 070  C2 093  B1 074  B1 070  B1 090  A1 084  B1
+22685483   M SWAYAM PRASAD                                       301     065     041     042     043     048      A2 A2 A2    PASS                      
+                                                                 079  B2 079  C2 046  D1 056  C2 051  D2 086  A2
+22685484   M ADITYA KUMAR                                        301     065     041     042     043     048      A2 A1 A2    PASS                      
+                                                                 063  D1 070  D1 045  D2 051  D2 052  D2 073  C1
+22685485   M AMIT KUMAR SINGH                                    301     065     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 067  C2 071  D1 045  D2 051  D2 052  D2 072  C1
+22685486   M SIDDHANT PANDEY                                     301     302     044     042     043     048      A2 A1 A2    PASS                      
+                                                                 076  C1 060  D1 055  D1 051  D2 052  D2 076  B2
+22685487   M AMAY SINHA                                          301     065     048     042     043     041      A1 A1 A2    PASS                      
+                                                                 081  B2 070  D1 080  B1 056  C2 051  D2 031  E 
+22685488   M SHOURYA PRAKASH                                     301     065     041     042     043     048      A2 B1 B2    PASS                      
+                                                                 075  C1 084  C1 046  D1 053  D1 053  D1 084  B1
+22685489   M MOHIT VERMA                                         301     065     041     042     048     043      A2 A2 A2    PASS                      
+                                                                 065  C2 081  C1 044  D2 051  D2 073  C1 035  E 
+22685490   M RUPESH KUMAR                                        301     065     044     048     043     042      A2 A1 A2    COMP               043 042
+                                                                 056  D1 059  D2 052  D2 062  D1 038  E  033  E 
+
+22685491   M ALOK KUMAR OJHA                                     301     322     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 075  C1 094  A1 072  B1 069  B1 073  B1 087  A2
+22685492   M SHIVAM KUMAR                                        301     302     044     042     043     048      A1 A1 A1    PASS                      
+                                                                 094  A1 087  A2 098  A1 086  A1 094  A1 094  A1
+22685493   M KRISH RAO                                           301     065     041     042     043     048      A1 A2 A2    PASS                      
+                                                                 075  C1 090  B1 047  D1 052  D2 055  D1 072  C1
+22685494   M ROUSHAN GOSWAMI                                     301     065     041     042     043     048      A2 A1 A2    PASS                      
+                                                                 065  C2 079  C2 069  B1 071  B1 078  B1 085  A2
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       5
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685495   M PREM KUMAR                                          301     065     048     042     043     041      A1 A1 A2    PASS                      
+                                                                 069  C2 070  D1 071  C1 050  D2 055  D1 031  E 
+22685496   M SRIJAN RAJ                                          301     065     041     042     043     048      A2 A1 A1    PASS                      
+                                                                 082  B1 089  B2 045  D2 051  D2 052  D2 079  B2
+22685497   M RAJDEEP SINGH                                       301     065     041     042     043     048      A1 A1 A2    PASS                      
+                                                                 076  C1 087  B2 076  A2 070  B1 079  B1 074  C1
+22685498   M DEV SINGH                                           301     065     048     042     043     041      A2 A2 A1    PASS                      
+                                                                 081  B2 074  C2 073  C1 050  D2 049  D2 037  E 
+22685499   M ALOK KUMAR BODRA                                    301     065     048     042     043     041      A2 B1 A2    PASS                      
+                                                                 076  C1 081  C1 077  B2 051  D2 051  D2 031  E 
+22685500   M HARSH KUMAR                                         301     065     041     042     043     048      A1 A2 A2    PASS                      
+                                                                 069  C2 091  B1 049  C2 057  C2 064  C1 083  B1
+
+22685501   M RAJU KUMAR TIWARI                                   301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 092  A1 090  B1 072  B1 066  B2 081  A2 089  A2
+22685502   M AKSSAT CHOUDHARY                                    301     065     041     042     043     048      B1 A1 A1    PASS                      
+                                                                 087  A2 081  C1 046  D1 060  C1 053  D1 092  A1
+22685503   M SUDHIR KUMAR                                        301     065     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 076  C1 092  B1 073  B1 064  B2 086  A2 088  A2
+22685504   M ABHISHEK KUMAR SHARMA                               301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 079  B2 083  C1 079  A2 062  C1 071  B2 095  A1
+22685505   M ABHINAV PATEL                                       301     065     041     042     043     048      A1 B1 A1    PASS                      
+                                                                 088  A2 084  C1 049  C2 058  C2 060  C1 085  A2
+22685506   M HARSH LAL                                           301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 085  B1 099  A1 082  A2 082  A1 081  A2 082  B1
+22685507   M INDRANIL DUTTA                                      301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 093  A1 095  A2 054  C1 069  B1 070  B2 085  A2
+22685508   M AYUSH DAYAL                                         301     065     041     042     043     048      B2 A2 A2    PASS                      
+                                                                 074  C1 079  C2 063  B2 060  C1 070  B2 072  C1
+22685509   M ADITYA RAJ                                          301     065     041     048     043     042      A2 A1 A1    COMP               301    
+                                                                 037  E  059  D2 045  D2 067  C2 052  D2 037  E 
+22685510   M ANKIT MISHRA                                        301     065     041     042     043     048      A2 A2 A1    PASS                      
+                                                                 084  B1 091  B1 062  B2 059  C1 068  B2 082  B1
+
+22685511   M KARAN KUMAR                                         301     065     048     042     043     041      A2 A2 B2    PASS                      
+                                                                 059  D1 069  D1 057  D2 051  D2 052  D2 035  E 
+22685512   M PIYUSH KUMAR                                        301     065     041     042     043     048      B2 A1 A1    PASS                      
+                                                                 076  C1 084  C1 074  B1 078  A2 093  A1 070  C1
+22685513   M ARYAN KUMAR SRIVASTAVA                              301     065     041     042     043     048      A1 A1 B1    PASS                      
+                                                                 090  A2 092  B1 070  B1 063  B2 076  B1 082  B1
+22685514   M SRIJAN RANJAN                                       301     065     041     042     043     048      A1 B1 A1    PASS                      
+                                                                 077  B2 091  B1 052  C2 053  D1 053  D1 076  B2
+22685515   M ANIK DUBEY                                          301     065     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 071  C1 074  C2 055  C1 052  D2 056  C2 076  B2
+22685516   M KARAN THACKER                                       301     065     041     042     043     048      A1 B2 B1    PASS                      
+                                                                 076  C1 089  B2 048  D1 059  C1 066  B2 078  B2
+22685517   M SHASHANK KUMAR                                      301     065     041     042     043     048      A2 A2 A1    PASS                      
+                                                                 068  C2 072  D1 047  D1 052  D2 057  C2 062  D1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       6
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685518   M PREM KUMAR GUPTA                                    301     065     041     042     043     048      B1 A1 A1    PASS                      
+                                                                 077  B2 092  B1 091  A1 055  D1 066  B2 084  B1
+22685519   M KISHAN SINGH                                        301     065     041     042     043     048      A1 A2 A2    PASS                      
+                                                                 087  A2 095  A2 072  B1 063  B2 078  B1 084  B1
+22685520   M ANMOL KUMAR                                         301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 081  B2 090  B1 071  B1 070  B1 076  B1 083  B1
+
+22685521   M RONIT KUMAR SAW                                     301     065     041     042     043     048      B1 A1 A1    PASS                      
+                                                                 077  B2 097  A1 076  A2 075  A2 091  A1 089  A2
+22685522   M SHUBHAM KUMAR VERMA                                 301     065     041     042     043     048      A2 A2 B1    PASS                      
+                                                                 083  B1 085  C1 050  C2 051  D2 052  D2 076  B2
+22685523   M ANIKET MAJI                                         301     065     041     042     043     048      A1 A1 A2    PASS                      
+                                                                 087  A2 100  A1 071  B1 070  B1 074  B1 092  A1
+22685524   M ADITYA SOLANKI                                      301     065     048     042     043     041      B1 A1 A1    COMP               043 041
+                                                                 077  B2 069  D1 086  A2 053  D1 040  E  033  E 
+22685525   M HARSHIT KUMAR                                       301     065     041     042     048     043      A2 A2 A2    PASS                      
+                                                                 083  B1 075  C2 044  D2 050  D2 075  C1 037  E 
+22685526   M PRIYANSHU CHOUDHARY                                 301     065     041     042     043     048      A2 A2 B2    PASS                      
+                                                                 076  C1 089  B2 053  C1 059  C1 066  B2 078  B2
+22685527   M YOGESH SINGH                                        301     065     041     042     043     048      A2 B1 A1    PASS                      
+                                                                 090  A2 090  B1 060  B2 058  C2 068  B2 088  A2
+22685528   M ROSHAN KUMAR GUPTA                                  301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 070  C2 094  A2 045  D2 054  D1 055  D1 072  C1
+22685529   M SLOK KUMAR VERMA                                    301     065     041     042     043     048      B2 A2 A2    ABST                      
+                                                                 018     030     019     029     028     028    
+22685530   M MD FAIZUL ARFIN                                     301     065     041     042     043     048      A2 A2 B1    PASS                      
+                                                                 082  B1 084  C1 077  A2 067  B1 074  B1 091  A1
+
+22685531   M ADITYA KUMAR                                        301     065     041     042     043     048      A1 B1 A1    PASS                      
+                                                                 091  A2 095  A2 065  B2 068  B1 078  B1 096  A1
+22685532   M ANSH KUMAR MAHATO                                   301     065     041     042     043     048      A1 A1 A1    PASS                      
+                                                                 090  A2 090  B1 053  C1 069  B1 056  C2 090  A1
+22685533   M SUMIT KUMAR SHARMA                                  301     065     041     042     043     048      A1 A1 B1    PASS                      
+                                                                 086  B1 097  A1 074  B1 069  B1 070  B2 092  A1
+22685534   M NIRANJAN KUMAR YADAV                                301     065     041     042     043     048      B1 A1 A1    PASS                      
+                                                                 086  B1 090  B1 051  C2 056  C2 057  C2 094  A1
+22685535   M DASJOT SINGH                                        301     065     041     042     043     048      A2 B2 A1    PASS                      
+                                                                 074  C1 085  C1 073  B1 071  B1 075  B1 089  A2
+22685536   M PIYUSH KUMAR RAM                                    301     065     041     042     043     048      A2 A2 A1    PASS                      
+                                                                 094  A1 091  B1 062  B2 065  B2 069  B2 088  A2
+22685537   M PRINCE KUMAR                                        301     065     041     042     043     048      B2 A1 A1    PASS                      
+                                                                 067  C2 083  C1 054  C1 052  D2 053  D1 076  B2
+22685538   M HARSHIT MORE                                        301     065     041     042     043     048      A1 A1 B2    PASS                      
+                                                                 090  A2 086  B2 045  D2 050  D2 061  C1 082  B1
+22685539   M PRINCE KUMAR MANDAL                                 301     065     041     042     043     048      B1 A2 A1    PASS                      
+                                                                 093  A1 092  B1 045  D2 053  D1 057  C2 087  A2
+22685540   M NIKHIL KUMAR                                        301     065     041     042     043     048      A1 A2 A1    PASS                      
+                                                                 061  D1 078  C2 048  D1 052  D2 057  C2 086  A2
+
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       7
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685541   M ALOK KUMAR VISHWAKARMA                              301     065     048     042     043     041      A1 A2 A1    COMP               043 041
+                                                                 047  D2 053  D2 050  D2 053  D1 039  E  030  E 
+22685542   M RUDRA PRATAP                                        301     065     048     042     043     041      A2 B1 A2    PASS                      
+                                                                 081  B2 067  D1 080  B1 051  D2 050  D2 031  E 
+22685543   M SHAHNAWAJ HUSAIN                                    301     065     041     042     043     048      A1 A1 B2    PASS                      
+                                                                 061  D1 073  D1 056  C1 052  D2 051  D2 061  D1
+22685544   M AMAN KUMAR                                          301     065     041     042     043     048      B2 A1 A2    PASS                      
+                                                                 068  C2 075  C2 046  D1 059  C1 056  C2 072  C1
+22685545   M HIMANSHU KUMAR                                      301     065     041     042     043     048      A2 A1 A1    PASS                      
+                                                                 066  C2 059  D2 044  D2 050  D2 051  D2 089  A2
+22685546   M MOHAMMAD SHAIFULLAH                                 301     065     041     042     043     048      B2 A2 A2    PASS                      
+                                                                 072  C1 091  B1 064  B2 062  C1 053  D1 080  B1
+22685547   M AKSHAT SINGH                                        301     065     041     042     043     048      A1 A2 B1    PASS                      
+                                                                 073  C1 060  D2 044  D2 056  C2 050  D2 074  C1
+22685548   M ANAND SAGAR                                         301     065     041     042     043     048      A2 B2 A1    PASS                      
+                                                                 087  A2 080  C1 046  D1 060  C1 058  C2 085  A2
+22685549   M AADARSH AGARWAL                                     301     302     030     054     055     048      A1 A1 A2    PASS                      
+                                                                 077  B2 084  B1 078  B1 072  B2 080  A2 091  A1
+22685550   M JASMAN DUA                                          301     048     030     054     055     241      A1 A1 A2    PASS                      
+                                                                 062  D1 073  C1 077  B1 074  B2 094  A1 068  B2
+
+22685551   M RISHAV KUMAR CHOUDHARY                              301     048     030     054     055     241      A2 A1 A1    PASS                      
+                                                                 096  A1 093  A1 097  A1 092  A1 093  A1 071  B2
+22685552   M DHRUV PATWARI                                       301     065     030     054     055     048      A2 A1 A1    PASS                      
+                                                                 058  D1 051  D2 058  C2 045  D2 044  D2 060  D1
+22685553   M SAHIL KUMAR BARNWAL                                 301     048     030     054     055     241      A1 A1 A2    PASS                      
+                                                                 084  B1 091  A1 093  A1 080  B1 096  A1 072  B2
+22685554   M DEEPAK GOEL                                         301     048     030     054     055     241      A1 A2 A1    PASS                      
+                                                                 084  B1 091  A1 091  A1 083  A2 065  B2 058  C2
+22685555   M DEV KUMAR                                           301     302     030     054     055     048      A2 A1 A1    PASS                      
+                                                                 070  C2 051  D2 060  C2 050  D1 046  D1 069  C2
+22685556   M KESHAV TEKWANI                                      301     048     030     054     055     241      A1 A2 A1    PASS                      
+                                                                 079  B2 090  A1 093  A1 082  B1 075  B1 055  C2
+22685557   M ARYAN RAJ PATEL                                     301     065     030     054     055     048      A2 A1 A1    PASS                      
+                                                                 075  C1 083  C1 088  A2 069  B2 066  B2 071  C1
+22685558   M PIYUSH KUMAR SHAW                                   301     302     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 073  C1 074  C1 062  C1 050  D1 050  C2 086  A2
+22685559   M ANSH KUMAR PANDEY                                   301     302     030     054     055     048      A2 A1 A1    PASS                      
+                                                                 071  C1 077  C1 068  C1 058  C2 046  D1 078  B2
+22685560   M HARSH SWARNKAR                                      301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 089  A2 084  C1 086  A2 055  C2 047  D1 071  C1
+
+22685561   M SHUBHAM KUMAR SINGH                                 301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 071  C1 076  C1 066  C1 050  D1 045  D2 066  C2
+22685562   M GOPAL KUMAR                                         301     048     030     054     055     241      A1 A2 A2    PASS                      
+                                                                 068  C2 067  C2 081  B1 055  C2 066  B2 059  C2
+22685563   M SUJAL JAISWAL                                       301     065     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 062  D1 068  D1 060  C2 047  D1 046  D1 060  D1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       8
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685564   M ALOK KUMAR                                          301     048     030     054     055     241      A1 A1 A1    PASS                      
+                                                                 076  C1 072  C1 075  B2 058  C2 058  C1 046  D2
+22685565   M NAYAN MEHTA                                         301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 073  C1 077  C2 071  B2 078  B1 065  B2 070  C1
+22685566   M ADITYA KUMAR SHAHI                                  301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 076  C1 085  B1 074  B2 065  C1 053  C1 089  A2
+22685567   M MOHIT KUMAR GUPTA                                   301     302     030     054     048     055      A1 A1 A2    PASS                      
+                                                                 067  C2 072  C2 061  C2 045  D2 071  C1 026  E 
+22685568   M SHRESTH SUMAN                                       301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 065  C2 066  D1 054  D1 063  C1 044  D2 064  D1
+22685569   M NIKHIL SRIVASTAVA                                   301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 085  B1 058  D2 076  B1 046  D2 050  C2 076  B2
+22685570   M RAJ GUPTA                                           301     048     030     054     055     241      A1 A1 A2    PASS                      
+                                                                 082  B1 093  A1 080  B1 060  C2 076  B1 060  C2
+
+22685571   M AUNIK ARYA                                          301     302     030     054     055     048      A1 A1 A2    PASS                      
+                                                                 045  D2 048  D2 045  D2 044  D2 043  D2 059  D1
+22685572   M SOURAV SINGH                                        301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 051  D2 050  D2 047  D2 044  D2 043  D2 063  D1
+22685573   M AVINASH KUMAR                                       301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 068  C2 054  D2 057  C2 044  D2 044  D2 062  D1
+22685574   M ESANT KUMAR NATH                                    301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 053  D2 064  D1 059  C2 045  D2 044  D2 058  D1
+22685575   M ABHISHEK RAJ SRIVASTAVA                             301     302     030     048     055     054      A1 A2 A1    PASS                      
+                                                                 045  D2 046  D2 047  D2 061  D1 043  D2 028  E 
+22685576   M KESHAV RAJ                                          301     048     030     054     055     241      A1 A2 A1    PASS                      
+                                                                 083  B1 093  A1 085  A2 081  B1 065  B2 049  D1
+22685577   M RISHI SHARMA                                        301     302     030     054     055     048      A1 A1 A2    PASS                      
+                                                                 059  D1 049  D2 061  C2 050  D1 043  D2 070  C1
+22685578   M SUMIT KUMAR                                         301     048     030     054     055     241      A1 A1 A2    PASS                      
+                                                                 082  B1 062  D1 076  B1 058  C2 048  D1 045  D2
+22685579   M ARAYAN GUPTA                                        301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 072  C1 056  D2 060  C2 044  D2 049  C2 052  D2
+22685580   M PIYUSH PANDEY                                       301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 066  C2 076  C2 080  B1 067  C1 075  B1 079  B2
+
+22685581   M MRINAL CHATTERJEE                                   301     302     030     048     055     054      A1 A2 A1    PASS                      
+                                                                 063  D1 059  D1 056  C2 051  D2 045  D2 029  E 
+22685582   M VANSH GAHLOT                                        301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 083  B1 073  D1 081  B1 050  D1 068  B1 081  B1
+22685583   M ADITYA KUMAR KHATIK                                 301     302     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 047  D2 049  D2 051  D1 046  D2 044  D2 049  D2
+22685584   M RAHUL KUMAR SINHA                                   301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 069  C2 071  C2 062  C1 044  D2 058  C1 066  C2
+22685585   M RAJGURU CHANDRAVANSHI                               301     048     030     054     055     241      A1 A2 A1    PASS                      
+                                                                 076  C1 064  D1 086  A2 045  D2 044  D2 044  D2
+22685586   M ROHIT RAJ                                           301     048     030     054     055     241      A1 A2 A1    PASS                      
+                                                                 085  B1 086  A2 085  A2 083  A2 055  C1 068  B2
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-       9
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685587   M AGAMDEEP SINGH                                      301     048     030     054     055     241      A1 A2 A1    PASS                      
+                                                                 077  B2 076  B2 083  A2 051  D1 061  B2 065  C1
+22685588   M SAGAR SINGH                                         301     048     030     054     055     241      A1 A1 A1    PASS                      
+                                                                 069  C2 062  D1 064  C1 051  D1 052  C2 066  C1
+22685589   M AKSH KUMAR AGARWAL                                  301     048     030     054     055     241      A1 A1 A1    PASS                      
+                                                                 060  D1 053  D2 065  C1 044  D2 059  C1 064  C1
+22685590   M LAKSHYA BHATIA                                      301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 070  C2 062  D1 057  C2 047  D1 056  C1 070  C1
+
+22685591   M SAWAN KUMAR                                         301     302     030     048     055     054      A1 A2 A1    PASS                      
+                                                                 068  C2 070  C2 054  D1 054  D2 045  D2 026  E 
+22685592   M VIVEK VERMA                                         301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 061  D1 071  D1 059  C2 055  C2 045  D2 072  C1
+22685593   M AMAN KUMAR SAHU                                     301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 080  B2 082  B2 068  C1 062  C1 052  C2 066  C2
+22685594   M SOURAV KUMAR                                        301     302     030     048     055     054      A1 A1 A1    PASS                      
+                                                                 056  D1 055  D2 048  D1 053  D2 045  D2 032  E 
+22685595   M KUNAL KUMAR                                         301     302     030     054     055     048      A1 A2 A2    PASS                      
+                                                                 070  C2 071  C2 065  C1 066  C1 045  D2 071  C1
+22685596   M ANKIT KUMAR SINGH                                   301     302     030     048     055     054      A1 A1 A1    PASS                      
+                                                                 053  D2 069  C2 057  C2 064  D1 045  D2 030  E 
+22685597   M MD DANIYAAL SIDDIQUI                                301     048     030     054     055     302      A1 A1 A2    PASS                      
+                                                                 077  B2 073  C1 081  B1 055  C2 054  C1 070  C2
+22685598   M YUVRAJ DUBEY                                        301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 073  C1 078  C1 075  B2 085  A2 054  C1 090  A1
+22685599   M SASHI BHUSAN SINGH                                  301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 072  C1 071  C2 073  B2 048  D1 045  D2 066  C2
+22685600   M KRISHNA KISHORE KHAITAN                             301     048     030     054     055     241      A1 A2 A1    PASS                      
+                                                                 092  A1 093  A1 097  A1 089  A2 096  A1 096  A1
+
+22685601   M ANIKET KUMAR                                        301     065     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 070  C2 052  D2 055  D1 055  C2 045  D2 067  C2
+22685602   M SACHIN KUMAR RAJ                                    301     302     030     054     055     048      A1 A2 A2    PASS                      
+                                                                 070  C2 073  C2 062  C1 046  D2 045  D2 080  B1
+22685603   M SAHIL PRATAP SINGH                                  301     302     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 087  A2 082  B2 092  A1 080  B1 094  A1 087  A2
+22685604   M RISHIT RAJ                                          301     065     030     054     055     048      A2 A1 A2    PASS                      
+                                                                 054  D1 057  D2 063  C1 056  C2 054  C1 073  C1
+22685605   M ANIRUDH AGARWAL                                     301     065     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 055  D1 064  D1 062  C1 046  D2 063  B2 060  D1
+22685606   M BISHWAJIT SINGH                                     301     302     030     054     055     048      A1 A2 A1    PASS                      
+                                                                 090  A2 071  C2 084  A2 056  C2 051  C2 071  C1
+22685607   M SOUBHIK KUMAR DUTTA                                 301     065     030     054     055     048      A2 A1 A1    PASS                      
+                                                                 084  B1 070  D1 070  B2 054  C2 045  D2 073  C1
+22685608   M RISHI KUMAR                                         301     302     030     054     055     048      A2 A2 A2    PASS                      
+                                                                 072  C1 056  D2 061  C2 045  D2 049  C2 071  C1
+22685609   M ANIKAIT ARYA                                        301     048     030     054     055     241      A1 A2 A2    PASS                      
+                                                                 093  A1 084  B1 061  C2 070  B2 045  D2 046  D2
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      10
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685610   M KARAN SHARMA                                        301     065     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 091  A2 072  D1 083  A2 081  B1 054  C1 089  A2
+
+22685611   M DIPESH AGARWAL                                      301     048     030     054     055     241      A2 A1 A2    PASS                      
+                                                                 085  B1 081  B1 079  B1 065  C1 073  B1 055  C2
+22685612   M SUMIT KUMAR                                         301     302     030     054     048     055      A1 A1 A1    PASS                      
+                                                                 068  C2 059  D1 068  C1 044  D2 059  D1 027  E 
+22685613   M PRATYUSH KUMAR                                      301     302     030     054     055     048      A2 A2 A2    PASS                      
+                                                                 080  B2 066  D1 054  D1 062  C1 053  C1 074  C1
+22685614   M ANSHUMAN RAJ SHAW                                   301     048     030     054     055     241      A1 A2 A2    PASS                      
+                                                                 092  A1 091  A1 092  A1 085  A2 092  A1 073  B2
+22685615   M ABHISHEK CHAUHAN                                    301     302     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 086  B1 076  C1 079  B1 052  D1 060  B2 086  A2
+22685616   M SHIVAM MODI                                         301     048     030     054     055     241      A2 A2 A1    PASS                      
+                                                                 094  A1 088  A2 088  A2 090  A2 083  A2 061  C1
+22685617   M ANIKET RAJ                                          301     048     030     054     055     241      A1 A1 A1    PASS                      
+                                                                 078  B2 086  A2 074  B2 057  C2 065  B2 056  C2
+22685618   M VIKRAM MANDAL                                       301     065     030     054     048     055      A1 A1 A1    PASS                      
+                                                                 048  D2 053  D2 052  D1 046  D2 055  D2 028  E 
+22685619   M ANSHIK KUMAR                                        301     048     030     054     055     241      A2 A1 A2    PASS                      
+                                                                 079  B2 078  B2 067  C1 059  C2 050  C2 046  D2
+22685620   M ANMOL KUMAR YADAV                                   301     302     030     054     055     048      A1 A2 A2    PASS                      
+                                                                 082  B1 080  B2 085  A2 071  B2 083  A2 088  A2
+
+22685621   M SHUBHAM GOPE                                        301     302     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 087  A2 090  A2 095  A1 076  B1 095  A1 093  A1
+22685622   M ANAND BADATIA                                       301     065     030     054     055     048      A2 A2 A2    PASS                      
+                                                                 073  C1 070  D1 060  C2 056  C2 046  D1 081  B1
+22685623   M MAYANK RAJ GUPTA                                    301     065     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 090  A2 085  C1 074  B2 051  D1 055  C1 078  B2
+22685624   M ADITYA JHA                                          301     065     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 092  A1 089  B2 093  A1 074  B2 095  A1 094  A1
+22685625   M AMAN KUMAR                                          301     302     030     054     055     048      B1 A1 A2    PASS                      
+                                                                 082  B1 073  C2 089  A2 078  B1 080  A2 087  A2
+22685626   M ANSU KUMAR SINGH                                    301     302     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 096  A1 092  A1 095  A1 086  A2 095  A1 098  A1
+22685627   M MOHIT VISHWAKARMA                                   301     302     030     054     055     048      B1 B1 B2    PASS                      
+                                                                 070  C2 065  D1 061  C2 044  D2 048  D1 052  D2
+22685628   M ARPIT AGARWAL                                       301     048     030     054     055     241      B1 B1 B1    PASS                      
+                                                                 076  C1 065  C2 070  B2 048  D1 049  C2 044  D2
+22685629   M ARITRA MUKHERJEE                                    301     048     030     054     055     241      A2 A2 A2    PASS                      
+                                                                 096  A1 082  B1 086  A2 066  C1 060  B2 044  D2
+22685630   M PRIYAM KUMAR                                        301     302     030     054     055     048      A2 B1 A2    PASS                      
+                                                                 066  C2 055  D2 060  C2 045  D2 047  D1 052  D2
+
+22685631   M SAHIL SINGH                                         301     302     030     054     055     048      A2 A2 A2    PASS                      
+                                                                 083  B1 076  C1 065  C1 048  D1 044  D2 082  B1
+22685632   M ALOK RAJ SINGH                                      301     048     030     054     055     241      A2 A1 A1    PASS                      
+                                                                 086  B1 092  A1 080  B1 069  B2 080  A2 050  D1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      11
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685633   M JAY SONI                                            301     065     030     054     055     048      A2 B1 B1    PASS                      
+                                                                 079  B2 072  D1 080  B1 052  D1 048  D1 080  B1
+22685634   M PRANIT SAPARIA                                      301     048     030     054     055     241      A2 A2 A2    PASS                      
+                                                                 086  B1 089  A2 094  A1 074  B2 083  A2 052  D1
+22685635   M MAYUR GOYAL                                         301     048     030     054     055     241      B1 B1 B1    PASS                      
+                                                                 057  D1 051  D2 048  D1 044  D2 044  D2 025  E 
+22685636   M RISHI KUMAR SINGH                                   301     048     030     054     055     241      A2 A2 A1    PASS                      
+                                                                 084  B1 081  B1 093  A1 061  C1 077  B1 048  D1
+22685637   M SHIVAM KUMAR SAW                                    301     302     030     054     055     048      A2 A2 B1    PASS                      
+                                                                 087  A2 074  C1 086  A2 063  C1 048  D1 073  C1
+22685638   M DIVYANSHU ARORA                                     301     048     030     054     055     241      A1 A1 A1    PASS                      
+                                                                 087  A2 089  A2 080  B1 053  D1 067  B2 060  C2
+22685639   M MD JUNAID IQUBAL                                    301     065     030     054     055     048      B1 B1 B1    PASS                      
+                                                                 078  B2 070  D1 064  C1 050  D1 043  D2 083  B1
+22685640   M AKSHAT KUMAR                                        301     065     030     054     055     048      B1 B1 B2    PASS                      
+                                                                 065  C2 061  D2 079  B1 054  C2 067  B2 079  B2
+
+22685641   M ATHARV GOYAL                                        301     048     030     054     055     241      B2 B2 B1    PASS                      
+                                                                 069  C2 070  C1 052  D1 046  D2 046  D1 044  D2
+22685642   M PRITHVI RAJ KUMAR                                   301     065     030     054     055     048      A2 B1 A2    PASS                      
+                                                                 095  A1 085  C1 085  A2 073  B2 078  A2 092  A1
+22685643   M PARMANAND PASWAN                                    301     065     030     054     055     048      B1 A2 A2    PASS                      
+                                                                 072  C1 057  D2 066  C1 045  D2 044  D2 071  C1
+22685644   M MOHIT KUMAR                                         301     048     030     054     055     241      A2 A2 A2    PASS                      
+                                                                 080  B2 073  C1 069  B2 045  D2 044  D2 046  D2
+22685645   M SACHIN THAKUR                                       301     065     030     054     055     048      A2 B1 A1    PASS                      
+                                                                 093  A1 073  D1 075  B2 064  C1 054  C1 083  B1
+22685646   M RACHIT KUMAR AGARWAL                                301     302     030     054     055     048      A1 A1 A1    PASS                      
+                                                                 081  B2 079  B2 080  B1 063  C1 049  C2 076  B2
+22685647   M HARPREET SINGH                                      301     048     030     054     055     241      B1 A2 A2    PASS                      
+                                                                 056  D1 052  D2 045  D2 044  D2 044  D2 026  E 
+22685648   M VEDANT AGARWAL                                      301     048     030     054     055     241      A1 A1 A1    PASS                      
+                                                                 084  B1 086  A2 081  B1 065  C1 080  A2 061  C1
+22685649   M RAJ RITOLIA                                         301     302     030     054     055     048      A2 A2 A2    PASS                      
+                                                                 061  D1 050  D2 052  D1 045  D2 043  D2 058  D1
+22685650   M SUDIP PAUL                                          301     065     030     054     055     048      B1 B1 B1    PASS                      
+                                                                 066  C2 052  D2 063  C1 050  D1 046  D1 057  D2
+
+22685651   M SHUBHAM RITOLIA                                     301     302     030     054     055     048      A2 A2 B1    PASS                      
+                                                                 073  C1 072  C2 071  B2 055  C2 047  D1 069  C2
+22685652   M VAIBHAV KUMAR SHARMA                                301     048     030     054     055     241      A1 A1 A1    PASS                      
+                                                                 095  A1 088  A2 095  A1 087  A2 089  A1 072  B2
+22685653   M KRISH                                               301     065     030     054     055     048      A2 B1 B1    PASS                      
+                                                                 082  B1 078  C2 067  C1 051  D1 048  D1 085  A2
+22685654   M KUNAL SINGH                                         301     302     030     054     055     048      A2 A2 A2    PASS                      
+                                                                 096  A1 078  C1 076  B1 062  C1 061  B2 079  B2
+22685655   M YASH KUMAR                                          301     065     030     054     055     048      B1 B1 A2    PASS                      
+                                                                 092  A1 068  D1 060  C2 044  D2 044  D2 073  C1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      12
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685656   M AMAN KUMAR                                          301     302     030     054     055     048      B1 B1 B1    PASS                      
+                                                                 047  D2 044  D2 048  D1 044  D2 045  D2 061  D1
+22685657   M MD QAMAR RAZA                                       301     302     030     054     055     048      A2 A2 B1    PASS                      
+                                                                 073  C1 066  D1 061  C2 058  C2 044  D2 072  C1
+22685658   M GOURAV KUMAR SAW                                    301     065     030     054     055     048      B1 A2 B1    PASS                      
+                                                                 082  B1 072  D1 086  A2 072  B2 070  B1 084  B1
+22685659   M DEV KUMAR                                           301     065     030     054     055     048      A2 B1 B1    PASS                      
+                                                                 079  B2 087  B2 070  B2 056  C2 047  D1 088  A2
+22685660   F SHRUTI SINGH                                        301     065     041     042     043     052      A1 B1 B1    PASS                      
+                                                                 091  A2 089  B2 046  D1 052  D2 058  C2 088  C2
+
+22685661   F TANU TRIPATHI                                       301     065     041     042     043     052      A1 B2 B1    PASS                      
+                                                                 096  A1 073  D1 046  D1 054  D1 052  D2 100  A1
+22685662   F STUTI PRIYA                                         301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 097  A1 087  B2 065  B2 062  C1 072  B1 100  A1
+22685663   F SHRESHTHA SINHA                                     301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 093  A1 093  B1 055  C1 063  B2 082  A2 100  A1
+22685664   F ERAM FATIMA                                         301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 089  A2 098  A1 064  B2 076  A2 093  A1 100  A1
+22685665   F RAMBHA KUMARI                                       301     322     041     042     043     052      B1 B2 B1    PASS                      
+                                                                 095  A1 095  A1 063  B2 062  C1 073  B1 100  A1
+22685666   F AADYA SHAILY                                        301     065     041     042     043     052      A1 A2 B1    PASS                      
+                                                                 092  A1 075  C2 047  D1 065  B2 058  C2 097  B1
+22685667   F PALAK PARAMA                                        301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 094  A1 075  C2 046  D1 061  C1 053  D1 098  B1
+22685668   F ANSHU KUMARI                                        301     322     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 084  B1 093  A1 076  A2 061  C1 083  A2 100  A1
+22685669   F KHUSHI KUMARI                                       301     065     052     042     043     041      A1 A2 B1    PASS                      
+                                                                 081  B2 060  D2 098  B1 053  D1 051  D2 031  E 
+22685670   F VARSHA KUMARI                                       301     302     041     042     043     052      A1 A2 B1    PASS                      
+                                                                 094  A1 088  A2 068  B1 071  B1 059  C2 100  A1
+
+22685671   F SURBHI SINGH                                        301     065     041     042     043     052      A1 A2 A1    PASS                      
+                                                                 090  A2 097  A1 075  A2 081  A2 087  A2 100  A1
+22685672   F SWEETY KUMARI                                       301     302     041     042     043     052      A1 A2 B1    PASS                      
+                                                                 080  B2 078  C1 047  D1 055  D1 053  D1 095  B2
+22685673   F SONAL KUMARI                                        301     302     041     042     043     052      A1 A1 B2    PASS                      
+                                                                 095  A1 090  A2 046  D1 053  D1 061  C1 098  B1
+22685674   F ANANYA BHARDWAJ                                     301     065     041     042     043     052      A1 A1 B1    PASS                      
+                                                                 065  C2 069  D1 047  D1 053  D1 051  D2 092  C1
+22685675   F KRITY KUMARI                                        301     065     052     042     043     041      A2 A2 B1    PASS                      
+                                                                 072  C1 061  D2 091  C2 051  D2 051  D2 029  E 
+22685676   F JIGYASA PRIYADARSHI                                 301     302     041     042     043     052      A1 A1 B1    PASS                      
+                                                                 093  A1 084  B1 046  D1 053  D1 052  D2 095  B2
+22685677   F ANUBHA RAJ                                          301     065     041     042     043     052      B1 B1 B1    PASS                      
+                                                                 080  B2 084  C1 049  C2 060  C1 051  D2 097  B1
+22685678   F MANYATA GUPTA                                       301     322     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 099  A1 098  A1 087  A1 085  A1 095  A1 100  A1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      13
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685679   F SAKSHI BARNWAL                                      301     065     041     042     043     052      A1 A2 A1    PASS                      
+                                                                 095  A1 094  A2 094  A1 081  A2 083  A2 100  A1
+22685680   F ISHITA SAHA                                         301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 087  A2 079  C2 056  C1 053  D1 060  C1 098  B1
+
+22685681   F ANSHU KUMARI                                        301     322     041     042     043     052      A1 A2 A2    PASS                      
+                                                                 092  A1 097  A1 051  C2 052  D2 056  C2 098  B1
+22685682   F AARADHYA VERMA                                      301     065     041     042     043     052      A2 A1 B1    PASS                      
+                                                                 069  C2 061  D2 048  D1 057  C2 058  C2 095  B2
+22685683   F HARSHITA SINGH                                      301     302     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 095  A1 089  A2 094  A1 092  A1 093  A1 100  A1
+22685684   F SWASTIK KUMARI                                      301     065     041     042     043     052      B1 B2 B2    PASS                      
+                                                                 093  A1 090  B1 068  B1 069  B1 070  B2 093  C1
+22685685   F JANVI                                               301     065     041     042     043     052      A2 A2 B1    PASS                      
+                                                                 082  B1 077  C2 045  D2 058  C2 054  D1 100  A1
+22685686   F TANNUPRIYA                                          301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 096  A1 099  A1 068  B1 074  A2 083  A2 100  A1
+22685687   F RAGI KUMARI                                         301     065     041     042     043     052      A1 A2 B1    PASS                      
+                                                                 089  A2 098  A1 053  C1 057  C2 061  C1 100  A1
+22685688   F LAXMI KUMARI                                        301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 076  C1 090  B1 062  B2 071  B1 077  B1 100  A1
+22685689   F SONAKSHI SINGH                                      301     065     041     042     043     052      A2 A2 B2    PASS                      
+                                                                 088  A2 075  C2 046  D1 051  D2 052  D2 098  B1
+22685690   F ANSHU KUMARI                                        301     302     041     042     043     052      A1 A2 B1    PASS                      
+                                                                 096  A1 091  A1 055  C1 056  C2 073  B1 093  C1
+
+22685691   F NIKITA MAHTO                                        301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 078  B2 079  C2 047  D1 060  C1 058  C2 098  B1
+22685692   F AAKRITI SHARMA                                      301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 086  B1 094  A2 067  B1 071  B1 070  B2 098  B1
+22685693   F ANGELINA MISHRA                                     301     302     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 094  A1 081  B2 065  B2 066  B2 082  A2 100  A1
+22685694   F SIMRAN                                              301     065     041     042     043     052      A1 A2 B1    PASS                      
+                                                                 092  A1 088  B2 051  C2 062  C1 065  B2 100  A1
+22685695   F SAMRIDHI CHOUHAN                                    301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 089  A2 088  B2 058  C1 068  B1 080  A2 100  A1
+22685696   F SANJANA KUMARI                                      301     065     041     042     043     052      A1 A2 A2    PASS                      
+                                                                 092  A1 085  C1 057  C1 057  C2 068  B2 098  B1
+22685697   F SHRUTI SINGH                                        301     065     052     042     043     041      B1 C2 C1    PASS                      
+                                                                 069  C2 060  D2 093  C1 051  D2 052  D2 031  E 
+22685698   F SHALVI KUMARI                                       301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 095  A1 085  C1 070  B1 070  B1 086  A2 100  A1
+22685699   F ANUSHKA SRIVASTAV                                   301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 082  B1 086  B2 046  D1 055  D1 058  C2 097  B1
+22685700   F NIRMALA KUMARI                                      301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 095  A1 076  C2 061  B2 075  A2 090  A1 097  B1
+
+22685701   F ANCHAL AGARWAL                                      301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 096  A1 094  A2 096  A1 090  A1 098  A1 100  A1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      14
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685702   F SHRUTI KUMARI SONI                                  301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 093  A1 083  C1 060  B2 067  B1 080  A2 100  A1
+22685703   F IFFAT TASNEEM                                       301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 093  A1 077  C2 049  C2 053  D1 068  B2 095  B2
+22685704   F ANSHIKA                                             301     065     041     042     043     052      A2 A2 B1    PASS                      
+                                                                 088  A2 084  C1 047  D1 053  D1 057  C2 095  B2
+22685705   F TANUSHREE KUMARI                                    301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 096  A1 080  C1 049  C2 054  D1 055  D1 100  A1
+22685706   F SIMAR KAUR                                          301     322     041     042     043     052      A2 A2 B1    PASS                      
+                                                                 083  B1 075  A2 047  D1 057  C2 053  D1 093  C1
+22685707   F PRATIBHA KUMARI KESHRI                              301     065     041     042     052     043      A2 B1 B2    PASS                      
+                                                                 067  C2 051  D2 044  D2 050  D2 092  C1 037  E 
+22685708   F SHRISHTI KUMARI SAW                                 301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 097  A1 098  A1 068  B1 066  B2 071  B2 100  A1
+22685709   F NANDINI KUMARI                                      301     302     041     042     043     052      A2 A2 A2    PASS                      
+                                                                 095  A1 091  A1 046  D1 058  C2 055  D1 098  B1
+22685710   F MONNIKA JHAMNANI                                    301     065     052     042     043     041      B2 B2 C2    PASS                      
+                                                                 076  C1 051  D2 095  B2 050  D2 053  D1 031  E 
+
+22685711   F KIRAN KUMARI                                        301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 088  A2 079  C2 052  C2 055  D1 051  D2 092  C1
+22685712   F PUJA KUMARI                                         301     065     041     042     043     052      B1 B1 B1    PASS                      
+                                                                 091  A2 088  B2 048  D1 059  C1 068  B2 099  A2
+22685713   F PALAK JHA                                           301     302     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 097  A1 082  B2 047  D1 053  D1 072  B1 100  A1
+22685714   F KUMKUM KUMARI                                       301     302     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 094  A1 086  B1 060  B2 075  A2 085  A2 100  A1
+22685715   F SHREYA NAYAN                                        301     065     041     042     043     052      A2 A1 A2    PASS                      
+                                                                 091  A2 074  C2 047  D1 052  D2 054  D1 095  B2
+22685716   F RICHIKA JHA                                         301     065     041     042     043     052      B1 C1 C1    PASS                      
+                                                                 096  A1 088  B2 045  D2 059  C1 057  C2 098  B1
+22685717   F SANA JUNAFAR                                        301     302     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 094  A1 072  C2 057  C1 058  C2 070  B2 100  A1
+22685718   F SAKSHI KUMARI SAHU                                  301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 096  A1 093  B1 078  A2 074  A2 090  A1 100  A1
+22685719   F SUNIDHI KESHRI                                      301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 097  A1 092  B1 078  A2 072  B1 083  A2 100  A1
+22685720   F KAVYA KUMARI                                        301     065     041     042     043     052      A1 A1 A2    PASS                      
+                                                                 092  A1 087  B2 059  C1 058  C2 052  D2 095  B2
+
+22685721   F RIYA KUMARI                                         301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 095  A1 094  A2 083  A2 086  A1 096  A1 100  A1
+22685722   F ALISHA KUMARI                                       301     065     041     042     043     052      A2 A2 A2    PASS                      
+                                                                 093  A1 088  B2 064  B2 061  C1 071  B2 099  A2
+22685723   F TANYA ANAND                                         301     065     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 093  A1 089  B2 057  C1 067  B1 078  B1 100  A1
+22685724   F KRITI KUMARI                                        301     322     041     042     043     052      A1 A1 A1    PASS                      
+                                                                 095  A1 097  A1 092  A1 077  A2 100  A1 100  A1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      15
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685725   F AQUSA AZIZ                                          301     065     041     042     043     052      A2 A2 C1    PASS                      
+                                                                 095  A1 088  B2 046  D1 053  D1 052  D2 099  A2
+22685726   F ANUSHKA                                             301     322     044     042     043     052      A2 B1 C1    PASS                      
+                                                                 082  B1 093  A1 063  C2 055  D1 052  D2 100  A1
+22685727   F RIYA SHARMA                                         301     302     044     042     043     052      A1 A2 A2    PASS                      
+                                                                 095  A1 089  A2 088  A2 081  A2 084  A2 100  A1
+22685728   F ANANYA PANDEY                                       301     065     044     042     043     052      C1 A2 C1    PASS                      
+                                                                 090  A2 077  C2 075  B2 052  D2 059  C2 094  C1
+22685729   F SNEHA JHA                                           301     302     044     042     043     052      C2 C1 C2    PASS                      
+                                                                 069  C2 070  C2 066  C1 051  D2 050  D2 094  C1
+22685730   F SRIYANSHI TIWARY                                    301     302     044     042     043     052      A1 A2 A2    PASS                      
+                                                                 095  A1 081  B2 079  B1 075  A2 073  B1 100  A1
+
+22685731   F SHEETAL KUMARI                                      301     302     044     042     043     052      A1 A1 A1    PASS                      
+                                                                 094  A1 090  A2 092  A1 077  A2 091  A1 100  A1
+22685732   F SHRISHTI KUMARI SAW                                 301     322     041     042     043     052      B2 A2 C1    PASS                      
+                                                                 086  B1 075  A2 046  D1 051  D2 052  D2 095  B2
+22685733   F ANCHAL KUMARI                                       301     065     041     042     043     052      A2 B1 B1    PASS                      
+                                                                 091  A2 086  B2 047  D1 062  C1 057  C2 096  B2
+22685734   F SHRADHA KESHRI                                      301     302     044     042     043     052      C2 B2 C2    PASS                      
+                                                                 093  A1 091  A1 077  B2 052  D2 053  D1 100  A1
+22685735   F AKANSHA DAS                                         301     065     041     042     043     052      C2 B1 C2    PASS                      
+                                                                 086  B1 083  C1 045  D2 053  D1 051  D2 097  B1
+22685736   F PALAK SINGH                                         301     065     044     042     043     052      C2 B1 C2    PASS                      
+                                                                 081  B2 075  C2 061  C2 055  D1 057  C2 095  B2
+22685737   F SHRITI MONDAL                                       301     065     044     052     043     042      C2 B2 C2    PASS                      
+                                                                 084  B1 062  D2 053  D2 090  C2 051  D2 031  E 
+22685738   F ADITI DUTTA                                         301     065     044     042     043     052      A1 A2 A1    PASS                      
+                                                                 095  A1 098  A1 086  A2 081  A2 095  A1 100  A1
+22685739   F NISHA KUMARI                                        301     322     044     042     043     052      C2 B2 C2    PASS                      
+                                                                 093  A1 064  B2 052  D2 052  D2 052  D2 092  C1
+22685740   F ANAMIKA MAHTO                                       301     302     041     042     043     052      A2 B2 C1    PASS                      
+                                                                 092  A1 091  A1 063  B2 060  C1 077  B1 092  C1
+
+22685741   F PINKI KUMARI                                        301     322     044     042     043     052      A1 B1 A1    PASS                      
+                                                                 093  A1 099  A1 095  A1 086  A1 096  A1 100  A1
+22685742   F SAMIYA SIKANDAR                                     301     302     044     042     043     052      A2 B1 A2    PASS                      
+                                                                 080  B2 076  C1 066  C1 063  B2 077  B1 095  B2
+22685743   F DEEPSHIKHA NARAYAN                                  301     065     044     042     043     052      C1 B2 A2    PASS                      
+                                                                 093  A1 076  C2 078  B1 052  D2 074  B1 096  B2
+22685744   F TANISHA SRIVASTAVA                                  301     065     044     042     043     052      A1 B1 A1    PASS                      
+                                                                 097  A1 093  B1 096  A1 090  A1 090  A1 100  A1
+22685745   F JAHANVI GUPTA                                       301     322     044     042     043     052      A1 B1 A1    PASS                      
+                                                                 088  A2 087  A1 089  A2 080  A2 084  A2 100  A1
+22685746   F RUPALI KUMARI                                       301     302     041     042     043     052      A1 B1 A1    PASS                      
+                                                                 098  A1 092  A1 080  A2 080  A2 093  A1 100  A1
+22685747   F DIVYANSHI GUPTA                                     301     065     044     042     043     052      A2 A1 A2    PASS                      
+                                                                 095  A1 091  B1 068  C1 054  D1 062  C1 100  A1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      16
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685748   F MANSI KUMARI                                        301     065     044     042     043     052      A1 B1 A2    PASS                      
+                                                                 092  A1 095  A2 087  A2 072  B1 081  A2 100  A1
+22685749   F NEHA KUMARI YADAV                                   301     065     041     042     043     052      A2 B2 A2    PASS                      
+                                                                 095  A1 090  B1 054  C1 062  C1 078  B1 100  A1
+22685750   F ARCHISHA SAHU                                       301     302     044     042     043     052      A1 A2 A1    PASS                      
+                                                                 098  A1 093  A1 090  A2 074  A2 086  A2 100  A1
+
+22685751   F SHRUTI KUMARI                                       301     065     044     042     043     052      A2 B1 A2    PASS                      
+                                                                 093  A1 090  B1 074  B2 072  B1 064  C1 100  A1
+22685752   F SHUBHANGI SHIKHA                                    301     322     044     042     043     052      B1 A2 B1    PASS                      
+                                                                 090  A2 086  A1 078  B1 066  B2 082  A2 093  C1
+22685753   F PRACHI KUMARI                                       301     065     044     042     043     052      C2 C1 C2    PASS                      
+                                                                 087  A2 067  D1 059  C2 051  D2 051  D2 089  C2
+22685754   F SRISHTI KUMARI                                      301     302     044     042     043     052      C1 C2 C1    PASS                      
+                                                                 090  A2 090  A2 077  B2 062  C1 071  B2 094  C1
+22685755   F RISHITA ANAND                                       301     302     044     042     043     052      C1 B1 C1    PASS                      
+                                                                 093  A1 089  A2 073  B2 056  C2 064  C1 098  B1
+22685756   F ANISHA KUMARI                                       301     322     041     042     043     052      B1 B2 B2    PASS                      
+                                                                 083  B1 095  A1 046  D1 052  D2 061  C1 098  B1
+22685757   F ANANTA SHANKAR                                      301     302     044     042     043     052      B1 B2 B2    PASS                      
+                                                                 076  C1 066  D1 063  C2 052  D2 056  C2 098  B1
+22685758   F ANAM NEYAZ                                          301     302     044     042     043     052      C2 B2 C2    PASS                      
+                                                                 091  A2 091  A1 056  D1 056  C2 054  D1 098  B1
+22685759   F BHABYA KUMARI JHA                                   301     302     044     042     043     052      A1 A2 A2    PASS                      
+                                                                 094  A1 091  A1 094  A1 077  A2 072  B1 100  A1
+22685760   F SAKSHI KUMARI                                       301     302     044     042     043     052      A2 B1 A2    PASS                      
+                                                                 095  A1 087  A2 077  B2 070  B1 083  A2 100  A1
+
+22685761   F SANDHYA KUMARI                                      301     302     044     042     043     052      A2 B1 A2    PASS                      
+                                                                 074  C1 076  C1 060  C2 052  D2 054  D1 099  A2
+22685762   F AISHWARYA KUMARI JHA                                301     065     044     042     043     052      A1 B1 B1    PASS                      
+                                                                 097  A1 090  B1 079  B1 063  B2 075  B1 099  A2
+22685763   F JAYA KUMARI                                         301     302     044     042     043     052      C1 B1 C2    PASS                      
+                                                                 090  A2 073  C2 074  B2 051  D2 052  D2 088  C2
+22685764   F PUJA KUMARI                                         301     302     044     042     043     052      C1 B2 C2    PASS                      
+                                                                 066  C2 078  C1 057  D1 059  C1 051  D2 094  C1
+22685765   F ATEEQUAH MARYAM                                     301     302     044     042     043     052      A1 A2 A1    PASS                      
+                                                                 096  A1 090  A2 095  A1 076  A2 092  A1 097  B1
+22685766   F RIYA                                                301     302     044     042     043     052      A2 A2 A2    PASS                      
+                                                                 095  A1 091  A1 076  B2 065  B2 073  B1 100  A1
+22685767   F ADITI KUMARI                                        301     302     044     042     052     043      C2 C1 C2    PASS                      
+                                                                 087  A2 080  B2 052  D2 051  D2 098  B1 042  E 
+22685768   F KAVITA MURMU                                        301     065     044     042     043     052      C2 C1 C2    PASS                      
+                                                                 076  C1 086  B2 067  C1 051  D2 053  D1 099  A2
+22685769   F SUHANI SINGH                                        301     302     044     042     043     052      A2 B1 B1    PASS                      
+                                                                 093  A1 069  C2 076  B2 059  C1 078  B1 099  A2
+22685770   F ADITI GUPTA                                         301     302     044     052     043     042      C2 C1 C2    PASS                      
+                                                                 066  C2 071  C2 052  D2 087  D1 051  D2 036  E 
+
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      17
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685771   F PINNISETTI BABITA RATNA SIREESHA                    301     302     044     042     043     052      B1 A2 B1    PASS                      
+                                                                 098  A1 085  B1 059  C2 052  D2 059  C2 098  B1
+22685772   F DIKSHA RANI                                         301     302     044     042     043     052      C2 B1 C2    PASS                      
+                                                                 082  B1 078  C1 072  B2 051  D2 055  D1 089  C2
+22685773   F RITAMBHARA HIMALAY                                  301     322     044     042     043     052      C2 C1 C2    PASS                      
+                                                                 087  A2 076  A2 076  B2 056  C2 054  D1 099  A2
+22685774   F SUBHANGI BANERJEE                                   301     302     044     042     043     052      B1 B2 C2    PASS                      
+                                                                 095  A1 078  C1 064  C2 053  D1 051  D2 095  B2
+22685775   F ANUKRITI KUMARI                                     301     302     044     042     043     052      B2 B1 C2    PASS                      
+                                                                 074  C1 084  B1 063  C2 051  D2 051  D2 090  C2
+22685776   F TANZILA KHAN                                        301     302     044     042     043     052      A1 A2 A1    PASS                      
+                                                                 092  A1 094  A1 087  A2 081  A2 079  B1 100  A1
+22685777   F RIYA KUMARI                                         301     065     044     042     043     052      B1 B1 B2    PASS                      
+                                                                 089  A2 092  B1 078  B1 060  C1 052  D2 098  B1
+22685778   F DIVYA SINGH                                         301     065     044     042     043     052      B1 B1 B2    PASS                      
+                                                                 098  A1 096  A2 068  C1 053  D1 063  C1 100  A1
+22685779   F SANJANA CHANDRAWANSHI                               301     302     044     042     052     043      B1 B2 C2    PASS                      
+                                                                 087  A2 086  B1 053  D2 051  D2 099  A2 039  E 
+22685780   F KHUSHBU KUMARI                                      301     302     044     042     043     052      B1 B2 C2    PASS                      
+                                                                 094  A1 083  B1 071  C1 052  D2 053  D1 095  B2
+
+22685781   F SARA KUMARI                                         301     302     041     042     043     052      B2 B1 C2    PASS                      
+                                                                 078  B2 081  B2 046  D1 052  D2 055  D1 089  C2
+22685782   F SHAHEENA PARWEEN                                    301     322     044     042     043     052      B2 A2 C2    PASS                      
+                                                                 096  A1 073  A2 062  C2 051  D2 052  D2 090  C2
+22685783   F MUSKAN KUMARI                                       301     065     044     042     043     052      B2 A2 C2    PASS                      
+                                                                 089  A2 081  C1 063  C2 052  D2 052  D2 098  B1
+22685784   F ANUSHKA HANSDA                                      301     302     044     042     043     052      C1 B1 C2    PASS                      
+                                                                 096  A1 084  B1 088  A2 056  C2 061  C1 100  A1
+22685785   F AAKASHI KUMARI                                      301     302     044     042     043     052      C2 B1 C2    PASS                      
+                                                                 094  A1 086  B1 057  D1 052  D2 051  D2 099  A2
+22685786   F PRACHI RAY                                          301     302     044     042     052     043      C2 B2 C2    PASS                      
+                                                                 076  C1 082  B2 051  D2 051  D2 090  C2 036  E 
+22685787   F TAIBA NISHA                                         301     065     044     042     043     052      C1 C1 C2    PASS                      
+                                                                 089  A2 064  D1 053  D2 051  D2 051  D2 098  B1
+22685788   F AAKANSHA SINGH                                      301     065     044     042     043     052      C1 C2 C1    PASS                      
+                                                                 093  A1 079  C2 059  C2 051  D2 052  D2 098  B1
+22685789   F PRACHI KUMARI                                       301     302     044     042     043     052      C1 B1 B1    PASS                      
+                                                                 079  B2 083  B1 081  B1 052  D2 053  D1 099  A2
+22685790   F ANNU KUMARI                                         301     302     044     042     043     052      A1 B1 A2    PASS                      
+                                                                 095  A1 091  A1 077  B2 082  A1 086  A2 100  A1
+
+22685791   F PRERANA MURMU                                       301     302     044     042     043     052      B1 B2 C2    PASS                      
+                                                                 091  A2 086  B1 060  C2 051  D2 052  D2 099  A2
+22685792   F RITIKA SINGH                                        301     302     044     042     043     052      C2 C1 C2    PASS                      
+                                                                 083  B1 081  B2 053  D2 052  D2 051  D2 093  C1
+22685793   F ANJALI KUMARI                                       301     302     044     042     043     052      C2 C1 C2    PASS                      
+                                                                 086  B1 079  B2 056  D1 051  D2 054  D1 093  C1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      18
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685794   F DHRITI AGARWAL                                      301     241     055     054     030     052      A1 B1 A1    PASS                      
+                                                                 095  A1 084  A2 087  A2 086  A2 092  A1 100  A1
+22685795   F KASHVI AGARWAL                                      301     302     055     054     030     052      B2 B2 A2    PASS                      
+                                                                 069  C2 046  D2 050  C2 045  D2 064  C1 094  C1
+22685796   F DILPREET DUA                                        301     302     055     054     030     052      C2 C2 C2    PASS                      
+                                                                 089  A2 069  C2 046  D1 058  C2 060  C2 094  C1
+22685797   F KESHAVI GUPTA                                       301     241     055     054     030     052      A1 B2 B1    PASS                      
+                                                                 088  A2 057  C2 095  A1 087  A2 089  A2 100  A1
+22685798   F SHWETA MANDAL                                       301     302     055     054     030     052      B2 A1 B2    PASS                      
+                                                                 068  C2 077  C1 044  D2 044  D2 057  C2 084  D1
+22685799   F HARSHITA GARACH                                     301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 094  A1 065  C1 090  A1 091  A1 093  A1 100  A1
+22685800   F APURVA GUPTA                                        301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 095  A1 078  B1 095  A1 086  A2 095  A1 100  A1
+
+22685801   F KHUSHI AGARWAL                                      301     065     055     054     030     052      C2 C2 C2    PASS                      
+                                                                 063  D1 063  D2 045  D2 050  D1 053  D1 083  D1
+22685802   F MANYATA KUMARI                                      301     322     055     054     030     052      B1 A2 A2    PASS                      
+                                                                 088  A2 078  A2 046  D1 077  B1 078  B1 100  A1
+22685803   F ANUSHKA KUMARI                                      301     241     055     054     030     052      B2 A2 B2    PASS                      
+                                                                 081  B2 049  D1 055  C1 082  B1 082  B1 100  A1
+22685804   F CHARU AGARWAL                                       301     241     055     054     030     052      A1 B2 A2    PASS                      
+                                                                 093  A1 077  B1 100  A1 097  A1 099  A1 100  A1
+22685805   F PRIYA KUMARI                                        301     241     055     054     030     052      B2 A2 C1    PASS                      
+                                                                 083  B1 052  D1 080  A2 086  A2 081  B1 100  A1
+22685806   F YASHASVI SHARMA                                     301     241     055     054     030     052      A1 B2 A1    PASS                      
+                                                                 091  A2 065  C1 096  A1 086  A2 097  A1 100  A1
+22685807   F ISHIKA RITOLIA                                      301     241     055     054     030     052      B1 B2 A1    PASS                      
+                                                                 085  B1 063  C1 088  A2 071  B2 078  B1 100  A1
+22685808   F SHEETAL AGARWAL                                     301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 095  A1 070  B2 095  A1 092  A1 098  A1 100  A1
+22685809   F AASTHA KUMARI                                       301     052     055     054     030     241      A1 B2 A2    PASS                      
+                                                                 071  C1 098  B1 045  D2 060  C2 056  C2 025  E 
+22685810   F PURVI MODI                                          301     241     055     054     030     052      B2 B2 B1    PASS                      
+                                                                 085  B1 052  D1 049  C2 056  C2 069  B2 098  B1
+
+22685811   F SAFINA NAAZ                                         301     241     055     054     030     052      B1 A2 A1    PASS                      
+                                                                 091  A2 066  C1 083  A2 074  B2 094  A1 100  A1
+22685812   F KASHVI SAHA                                         301     302     055     054     030     052      C2 B1 C2    PASS                      
+                                                                 085  B1 087  A2 077  B1 080  B1 080  B1 098  B1
+22685813   F TANISHA KUMARI SAW                                  301     302     055     054     030     052      B1 A1 B2    PASS                      
+                                                                 078  B2 069  C2 063  B2 068  C1 074  B2 099  A2
+22685814   F MADHURIMA CHATTERJEE                                301     065     055     054     030     052      B1 B2 A1    PASS                      
+                                                                 095  A1 092  B1 066  B2 080  B1 091  A1 100  A1
+22685815   F ISHITA UPADHYAY                                     301     241     055     054     030     052      A2 C1 B1    PASS                      
+                                                                 082  B1 046  D2 050  C2 074  B2 093  A1 093  C1
+22685816   F AAYESHA SINHA                                       301     065     055     054     030     052      B1 B2 A1    PASS                      
+                                                                 094  A1 085  C1 063  B2 084  A2 088  A2 099  A2
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      19
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685817   F SAMINA ZAKI                                         301     065     055     054     030     052      A1 B1 B2    PASS                      
+                                                                 092  A1 088  B2 079  A2 085  A2 092  A1 100  A1
+22685818   F SUPRIYA KANT                                        301     065     055     054     030     052      C1 C2 B1    PASS                      
+                                                                 061  D1 066  D1 051  C2 054  C2 068  C1 088  C2
+22685819   F UNIKA SODHI                                         301     302     055     054     030     052      B2 B1 A2    PASS                      
+                                                                 086  B1 072  C2 095  A1 075  B2 098  A1 098  B1
+22685820   F PRIYANKA CHAKRAVARTY                                301     302     055     054     030     052      B1 A2 A1    PASS                      
+                                                                 083  B1 078  C1 052  C2 080  B1 076  B1 100  A1
+
+22685821   F KOMAL VERMA                                         301     065     055     054     030     052      B2 B1 A2    PASS                      
+                                                                 066  C2 073  D1 045  D2 072  B2 072  B2 098  B1
+22685822   F PRIYA .                                             301     302     052     054     030     055      B2 C1 C2    PASS                      
+                                                                 074  C1 047  D2 081  D2 044  D2 049  D1 030  E 
+22685823   F NANDINI GARG                                        301     241     055     054     030     052      B2 B1 C2    PASS                      
+                                                                 096  A1 076  B1 093  A1 087  A2 092  A1 100  A1
+22685824   F KAJAL KUMARI                                        301     302     055     054     030     052      A2 B1 A1    PASS                      
+                                                                 089  A2 082  B2 046  D1 077  B1 071  B2 100  A1
+22685825   F KRIPA KUMARI                                        301     302     055     054     030     052      B1 B2 C2    PASS                      
+                                                                 092  A1 075  C1 051  C2 063  C1 085  A2 095  B2
+22685826   F SHRISTY GUPTA                                       301     302     055     054     030     052      B2 B1 A2    PASS                      
+                                                                 088  A2 070  C2 051  C2 070  B2 078  B1 094  C1
+22685827   F SAKSHI KUMARI                                       301     302     055     054     030     052      B1 B2 A1    PASS                      
+                                                                 091  A2 078  C1 061  B2 071  B2 067  C1 100  A1
+22685828   F CHHAVI KUMARI                                       301     241     055     054     030     052      B2 B1 A2    PASS                      
+                                                                 094  A1 045  D2 061  B2 051  D1 072  B2 094  C1
+22685829   F TRIPTI KUMARI                                       301     302     055     054     030     052      B1 B2 A1    PASS                      
+                                                                 090  A2 091  A1 072  B1 090  A2 075  B2 100  A1
+22685830   F SAMRIDHI VERMA                                      301     302     055     054     030     052      A1 B2 A2    PASS                      
+                                                                 086  B1 085  B1 045  D2 075  B2 077  B1 100  A1
+
+22685831   F MANSHI KUMARI                                       301     302     055     054     030     052      B2 A1 C2    PASS                      
+                                                                 071  C1 065  D1 045  D2 045  D2 046  D2 086  D1
+22685832   F PINKY KUMARI                                        301     302     055     054     030     052      A1 B1 B2    PASS                      
+                                                                 079  B2 086  B1 059  C1 058  C2 056  C2 100  A1
+22685833   F PALAK AGARWAL                                       301     241     055     054     030     052      B2 C1 B2    PASS                      
+                                                                 086  B1 047  D2 068  B1 079  B1 073  B2 100  A1
+22685834   F KOMAL SINGH                                         301     302     055     054     030     052      C1 B1 A1    PASS                      
+                                                                 083  B1 069  C2 054  C1 062  C1 075  B2 093  C1
+22685835   F BHUMI KUMARI                                        301     302     055     054     030     052      C2 B2 C1    PASS                      
+                                                                 059  D1 061  D1 045  D2 049  D1 043  D2 079  D2
+22685836   F SUHANI SHREYA                                       301     052     055     054     030     241      B2 B1 C1    PASS                      
+                                                                 087  A2 091  C2 044  D2 045  D2 055  D1 028  E 
+22685837   F PIHU AGARWAL                                        301     241     055     054     030     052      B2 A2 B1    PASS                      
+                                                                 093  A1 052  D1 092  A1 077  B1 086  A2 100  A1
+22685838   F BRIDHI AGARWAL                                      301     241     055     054     030     052      A1 B1 C1    PASS                      
+                                                                 087  A2 057  C2 091  A1 082  B1 090  A2 100  A1
+22685839   F SANCHITA SHARMA                                     301     241     055     054     030     052      B1 B2 C1    PASS                      
+                                                                 083  B1 047  D2 044  D2 052  D1 064  C1 098  B1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      20
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685840   F SHRADHA AGARWAL                                     301     241     055     054     030     052      B1 B2 A1    PASS                      
+                                                                 089  A2 046  D2 052  C2 061  C1 078  B1 100  A1
+
+22685841   F RIYA KUMARI                                         301     302     055     054     030     052      B1 B2 A1    PASS                      
+                                                                 075  C1 086  B1 051  C2 068  C1 071  B2 099  A2
+22685842   F PRIYANKA KUMARI                                     301     065     055     054     030     052      B2 C1 B1    PASS                      
+                                                                 076  C1 066  D1 046  D1 063  C1 057  C2 099  A2
+22685843   F KASHISH UDANI                                       301     241     055     054     030     052      A1 B1 A2    PASS                      
+                                                                 085  B1 066  C1 074  B1 064  C1 086  A2 100  A1
+22685844   F DIPTI ARYA                                          301     241     055     054     030     052      B2 B1 C1    PASS                      
+                                                                 049  D2 055  C2 045  D2 046  D2 053  D1 092  C1
+22685845   F KIRAN KUMARI                                        301     065     055     054     030     052      A1 B2 A2    PASS                      
+                                                                 078  B2 072  D1 046  D1 051  D1 062  C1 095  B2
+22685846   F KHUSHBOO HEMBRAM                                    301     302     055     054     030     052      B1 C2 C1    PASS                      
+                                                                 074  C1 068  C2 046  D1 044  D2 066  C1 094  C1
+22685847   F MEENA KUMARI                                        301     302     055     054     030     052      A2 B2 B1    PASS                      
+                                                                 080  B2 081  B2 048  D1 064  C1 077  B1 093  C1
+22685848   F AYUSHI KUMARI                                       301     065     055     054     030     052      A2 B1 B2    PASS                      
+                                                                 089  A2 089  B2 054  C1 070  B2 081  B1 100  A1
+22685849   F RISHIKA KUMARI                                      301     065     052     054     030     055      C1 C2 C2    COMP               054 055
+                                                                 057  D1 053  D2 083  D1 030  E  046  D2 025  E 
+22685850   F SIMRAN PAL                                          301     302     055     054     030     052      C2 B1 C1    PASS                      
+                                                                 050  D2 052  D2 046  D1 046  D2 048  D1 084  D1
+
+22685851   F ANJALI KESHRI                                       301     241     052     054     030     055      B1 B2 B2    PASS                      
+                                                                 075  C1 045  D2 087  D1 051  D1 062  C1 028  E 
+22685852   F KOMAL PRASAD                                        301     241     055     054     030     052      A1 B1 A2    PASS                      
+                                                                 080  B2 061  C1 081  A2 068  C1 082  B1 096  B2
+22685853   F MANISHA SINGH                                       301     302     055     054     030     052      C2 C2 C1    PASS                      
+                                                                 072  C1 077  C1 045  D2 065  C1 058  C2 092  C1
+22685854   F TANVI GAUTAM                                        301     241     055     054     030     052      A1 B1 B2    PASS                      
+                                                                 076  C1 048  D1 059  C1 065  C1 083  A2 097  B1
+22685855   F ANUSHIKA SINGH                                      301     241     055     054     030     052      A1 A2 A1    PASS                      
+                                                                 075  C1 067  B2 083  A2 060  C2 082  B1 100  A1
+22685856   F RIYA KUMARI SINHA                                   301     302     055     054     030     052      A2 A2 B1    PASS                      
+                                                                 070  C2 074  C1 046  D1 062  C1 074  B2 092  C1
+22685857   F KHUSHI AGARWAL                                      301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 091  A2 082  A2 096  A1 088  A2 098  A1 100  A1
+22685858   F PURVI TARWE                                         301     302     055     054     030     052      A2 B2 B2    PASS                      
+                                                                 081  B2 088  A2 045  D2 046  D2 055  D1 088  C2
+22685859   F PRANJAL AVISHI                                      301     302     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 090  A2 086  B1 083  A2 079  B1 091  A1 100  A1
+22685860   F SUBHANKA SINGH                                      301     302     055     054     030     052      B2 B1 B1    PASS                      
+                                                                 050  D2 054  D2 044  D2 045  D2 047  D2 088  C2
+
+22685861   F RIYA KUMARI                                         301     065     055     054     030     052      A1 B1 A1    PASS                      
+                                                                 078  B2 077  C2 061  B2 050  D1 079  B1 100  A1
+22685862   F ISHIKA THOAR                                        301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 093  A1 046  D2 049  C2 082  B1 081  B1 090  C2
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      21
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685863   F SRIYA KUMARI                                        301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 096  A1 080  B1 095  A1 091  A1 093  A1 100  A1
+22685864   F ANUSHKA KUMARI                                      301     302     055     054     030     052      A1 B1 A2    PASS                      
+                                                                 087  A2 088  A2 059  C1 063  C1 079  B1 094  C1
+22685865   F PAMMI KUMARI                                        301     241     055     054     030     052      A1 A2 A1    PASS                      
+                                                                 069  C2 047  D2 050  C2 062  C1 066  C1 090  C2
+22685866   F MAHI KUMARI                                         301     302     055     054     030     052      B1 A2 A2    PASS                      
+                                                                 049  D2 065  D1 045  D2 049  D1 047  D2 090  C2
+22685867   F NITYA NANDA SNEHI                                   301     241     055     054     030     052      A1 A2 A1    PASS                      
+                                                                 085  B1 087  A2 096  A1 079  B1 098  A1 100  A1
+22685868   F RADHIKA RITOLIA                                     301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 094  A1 059  C2 068  B1 077  B1 071  B2 100  A1
+22685869   F MAHI DAVDA                                          301     302     055     054     030     052      A2 B1 A2    PASS                      
+                                                                 059  D1 080  B2 046  D1 047  D1 071  B2 094  C1
+22685870   F PRAGYA ANAND                                        301     065     055     054     030     052      A2 A2 B2    PASS                      
+                                                                 076  C1 063  D2 045  D2 049  D1 058  C2 094  C1
+
+22685871   F PALAK SRIVASTAVA                                    301     065     055     054     030     052      A2 B1 B1    PASS                      
+                                                                 069  C2 061  D2 045  D2 054  C2 068  C1 099  A2
+22685872   F SHRISTY GUPTA                                       301     302     055     054     030     052      A1 B1 B1    PASS                      
+                                                                 076  C1 077  C1 044  D2 054  C2 066  C1 098  B1
+22685873   F RUCHITA KUMARI                                      301     302     055     054     030     052      A2 B2 B2    PASS                      
+                                                                 088  A2 081  B2 072  B1 055  C2 077  B1 098  B1
+22685874   F MUSKAN KUMARI                                       301     302     055     054     030     052      A1 A1 A2    PASS                      
+                                                                 083  B1 091  A1 045  D2 075  B2 078  B1 100  A1
+22685875   F APOORVA PANDEY                                      301     241     055     054     030     052      A2 B1 B2    PASS                      
+                                                                 072  C1 046  D2 084  A2 059  C2 067  C1 090  C2
+22685876   F MANNAT SHARMA                                       301     065     055     054     030     052      C1 B2 C1    PASS                      
+                                                                 059  D1 065  D1 043  D2 046  D2 065  C1 085  D1
+22685877   F TARUNI HARSH                                        301     065     055     054     030     052      C1 B1 B1    PASS                      
+                                                                 082  B1 079  C2 060  B2 075  B2 064  C1 099  A2
+22685878   F PUJA KUMARI                                         301     322     055     054     030     052      B1 B1 B1    PASS                      
+                                                                 081  B2 067  B2 050  C2 060  C2 060  C2 091  C2
+22685879   F AYUSHI SINGH                                        301     065     055     054     030     052      B1 A2 B1    PASS                      
+                                                                 075  C1 089  B2 076  B1 066  C1 088  A2 098  B1
+22685880   F AKANKSHA SAHU                                       301     241     055     054     030     052      A1 A2 B1    PASS                      
+                                                                 069  C2 047  D2 052  C2 068  C1 069  B2 099  A2
+
+22685881   F VANSHIKA KASHYAP                                    301     065     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 087  A2 083  C1 050  C2 068  C1 077  B1 100  A1
+22685882   F BITTU KUMARI                                        301     302     055     054     030     052      B1 B1 B2    PASS                      
+                                                                 071  C1 080  B2 046  D1 051  D1 062  C1 099  A2
+22685883   F ANJALI KUMARI SAW                                   301     065     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 085  B1 092  B1 094  A1 091  A1 094  A1 100  A1
+22685884   F KHUSHI KUMARI                                       301     302     055     054     030     052      B1 C1 C1    PASS                      
+                                                                 091  A2 086  B1 045  D2 060  C2 066  C1 094  C1
+22685885   F DEBAPRIYA SARKAR                                    301     065     055     054     030     052      B2 C1 C2    PASS                      
+                                                                 046  D2 052  D2 044  D2 045  D2 046  D2 086  D1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      22
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685886   F MUSKAN KUMARI                                       301     302     055     054     030     052      B2 C1 C2    PASS                      
+                                                                 048  D2 071  C2 044  D2 052  D1 050  D1 092  C1
+22685887   F ISHANI SAHU                                         301     065     055     054     030     052      B1 B1 A2    PASS                      
+                                                                 065  C2 062  D2 044  D2 051  D1 053  D1 094  C1
+22685888   F ANJALI JHA                                          301     322     055     054     030     052      A2 B1 B1    PASS                      
+                                                                 066  C2 076  A2 057  C1 053  D1 062  C1 094  C1
+22685889   F MUSKAN KUMARI                                       301     302     055     054     030     052      C1 C2 B1    PASS                      
+                                                                 071  C1 072  C2 045  D2 057  C2 057  C2 098  B1
+22685890   F PUJA KUMARI                                         301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 096  A1 074  B1 099  A1 083  A2 099  A1 100  A1
+
+22685891   F ISHANA ANAISHA SRIVASTAVA                           301     241     055     054     030     052      A2 A1 B2    PASS                      
+                                                                 075  C1 045  D2 049  C2 066  C1 072  B2 098  B1
+22685892   F ANKITHA                                             301     302     055     054     030     052      C1 C2 B1    PASS                      
+                                                                 055  D1 045  D2 043  D2 045  D2 056  C2 088  C2
+22685893   F SHAMBHAVI SINGH                                     301     065     055     054     030     052      B1 B1 A2    PASS                      
+                                                                 068  C2 062  D2 043  D2 047  D1 059  C2 099  A2
+22685894   F ARCHI KUMARI                                        301     065     055     054     030     052      A2 A2 A1    PASS                      
+                                                                 078  B2 070  D1 044  D2 049  D1 069  B2 100  A1
+22685895   F SWETA SONI                                          301     322     055     054     030     052      A2 B1 B1    PASS                      
+                                                                 068  C2 063  B2 044  D2 066  C1 063  C1 093  C1
+22685896   F AARYA CHOUBEY                                       301     065     055     054     030     052      A1 B1 B2    PASS                      
+                                                                 086  B1 062  D2 058  C1 057  C2 065  C1 092  C1
+22685897   F NIDHI AGARWAL                                       301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 088  A2 087  A2 100  A1 087  A2 094  A1 100  A1
+22685898   F ANKITA GHOSH HAZRA                                  301     065     055     054     030     052      A2 A2 A1    PASS                      
+                                                                 090  A2 080  C1 049  C2 070  B2 079  B1 100  A1
+22685899   F SIDDHEE KUMARI                                      301     241     055     054     030     052      A1 A1 A1    PASS                      
+                                                                 089  A2 077  B1 093  A1 083  A2 098  A1 100  A1
+22685900   F ANUSHKA KUMARI                                      301     241     055     054     030     052      A2 A2 A1    PASS                      
+                                                                 079  B2 046  D2 057  C1 055  C2 080  B1 098  B1
+
+22685901   F RIYA KUMARI                                         301     065     055     052     030     054      C2 C1 B1    PASS                      
+                                                                 046  D2 055  D2 044  D2 083  D1 074  B2 030  E 
+22685902   F DIVYA SINGH                                         301     065     055     054     030     052      A1 A2 A1    PASS                      
+                                                                 090  A2 080  C1 049  C2 076  B1 088  A2 094  C1
+22685903   F PRIYANSHI TRIVEDI                                   301     241     055     054     030     052      A1 A2 A1    PASS                      
+                                                                 091  A2 052  D1 087  A2 073  B2 093  A1 098  B1
+22685904   F DEEP SHIKHA SINGH                                   301     302     055     054     030     052      A2 A1 A2    PASS                      
+                                                                 075  C1 084  B1 045  D2 064  C1 067  C1 100  A1
+22685905   F KHYATI GOSWAMI                                      301     302     055     054     030     052      A2 A1 A2    PASS                      
+                                                                 088  A2 090  A2 046  D1 071  B2 082  B1 094  C1
+22685906   F NANDINI MUDLIAR                                     301     065     055     054     030     052      C1 C2 C1    PASS                      
+                                                                 064  C2 056  D2 043  D2 048  D1 063  C1 096  B2
+22685907   F SWEETY SINHA                                        301     065     055     054     030     052      C1 C2 C1    PASS                      
+                                                                 060  D1 062  D2 047  D1 050  D1 077  B1 093  C1
+22685908   F ISHIKA SINGH                                        301     302     055     054     030     052      A1 B2 B1    PASS                      
+                                                                 071  C1 056  D2 044  D2 047  D1 074  B2 092  C1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      23
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685909   F RISHITA KUMARI                                      301     322     055     054     030     052      A2 B1 B1    PASS                      
+                                                                 080  B2 068  B1 049  C2 056  C2 082  B1 091  C2
+22685910   F SHURUTI KUMARI SAW                                  301     302     055     054     030     052      B2 B1 B2    PASS                      
+                                                                 065  C2 071  C2 045  D2 045  D2 064  C1 093  C1
+
+22685911   F ANJALI KUMARI                                       301     322     055     054     030     052      B1 B2 B1    PASS                      
+                                                                 069  C2 059  C2 046  D1 070  B2 071  B2 094  C1
+22685912   F ADITI CHAWDA                                        301     065     055     054     030     052      B1 A2 B1    PASS                      
+                                                                 093  A1 080  C1 049  C2 069  B2 083  A2 096  B2
+22685913   F PINKI KUMARI                                        301     065     055     054     030     052      A1 A2 A2    PASS                      
+                                                                 071  C1 090  B1 045  D2 056  C2 078  B1 097  B1
+22685914   F SHRUTI KUMARI SINGH                                 301     065     027     028     030     052      B2 A1 B2    PASS                      
+                                                                 072  C1 066  D1 046  D2 044  D2 059  C2 089  C2
+22685915   F JANVI MISHRA                                        301     302     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 095  A1 093  A1 073  B1 081  A2 085  A2 094  C1
+22685916   F YUKTI AGARWAL                                       301     302     027     028     029     052      B2 A2 C1    PASS                      
+                                                                 053  D2 046  D2 046  D2 044  D2 075  B1 082  D1
+22685917   F SONIKA SINGH                                        301     065     027     028     030     052      A2 A2 B1    PASS                      
+                                                                 087  A2 074  C2 073  B1 087  A1 086  A2 098  B1
+22685918   F SHRUTI GOSWAMI                                      301     065     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 094  A1 078  C2 074  B1 078  A2 088  A2 100  A1
+22685919   F UNNATI PRIYA                                        301     065     027     028     030     052      B1 A2 B1    PASS                      
+                                                                 060  D1 062  D2 046  D2 045  D2 087  A2 096  B2
+22685920   F ROSHNI KESHARI                                      301     302     027     028     030     052      B1 B1 A2    PASS                      
+                                                                 086  B1 077  C1 084  A2 089  A1 083  A2 095  B2
+
+22685921   F ANAMIKA KONAR                                       301     302     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 092  A1 092  A1 095  A1 092  A1 089  A2 098  B1
+22685922   F SAKSHI KUMARI SINGH                                 301     302     027     028     030     052      B2 B2 B1    PASS                      
+                                                                 067  C2 076  C1 050  D1 062  B2 067  C1 096  B2
+22685923   F ANJALI KUMARI                                       301     065     027     028     030     052      C1 B2 C1    PASS                      
+                                                                 061  D1 063  D2 046  D2 044  D2 068  C1 088  C2
+22685924   F SALONI SINGH                                        301     322     027     028     029     052      B1 A2 B1    PASS                      
+                                                                 076  C1 066  B2 062  B2 048  D1 088  A2 093  C1
+22685925   F ARPITA VISHWAKARMA                                  301     052     027     028     030     065      C1 B2 C1    COMP               028 065
+                                                                 046  D2 082  D1 045  D2 034  E  073  B2 034  E 
+22685926   F KRITI KUMARI JHA                                    301     322     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 096  A1 090  A1 086  A1 098  A1 093  A1 100  A1
+22685927   F ASTHA SISODIYA                                      301     302     027     028     029     052      A1 A1 A1    PASS                      
+                                                                 095  A1 080  B2 089  A1 089  A1 097  A1 100  A1
+22685928   F AFRIN NIDA                                          301     065     027     028     030     052      A2 A2 B1    PASS                      
+                                                                 071  C1 075  C2 063  B2 078  A2 073  B2 088  C2
+22685929   F ZEENAT KARIM                                        301     302     027     028     029     052      A2 A2 A2    PASS                      
+                                                                 071  C1 084  B1 077  A2 088  A1 097  A1 097  B1
+22685930   F SHAKSHI SINGH                                       301     302     027     028     030     052      A2 B1 A2    PASS                      
+                                                                 071  C1 077  C1 078  A2 087  A1 091  A1 100  A1
+
+22685931   F SHREYA ROY                                          301     065     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 068  C2 088  B2 062  B2 083  A2 079  B1 098  B1
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      24
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685932   F PRIYA AGRAWAL                                       301     241     027     028     030     052      A2 A1 B1    PASS                      
+                                                                 072  C1 046  D2 066  B2 077  A2 087  A2 097  B1
+22685933   F JAYA AGARWAL                                        301     302     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 071  C1 076  C1 080  A2 094  A1 093  A1 100  A1
+22685934   F ISHA SINGH                                          301     302     027     028     030     052      C1 B2 B2    PASS                      
+                                                                 051  D2 056  D2 047  D1 046  D1 047  D2 090  C2
+22685935   F PRIYANKA SINGH                                      301     302     027     028     029     052      A2 A2 A2    PASS                      
+                                                                 082  B1 075  C1 079  A2 095  A1 097  A1 100  A1
+22685936   F KHUSHBOO KUMARI                                     301     302     027     028     029     052      B2 A1 B1    PASS                      
+                                                                 067  C2 072  C2 052  C2 045  D2 067  C1 086  D1
+22685937   F ANJALI KUMARI                                       301     065     027     028     030     052      B2 B1 B2    PASS                      
+                                                                 057  D1 057  D2 046  D2 051  C2 066  C1 090  C2
+22685938   F ARPITA BARICK                                       301     065     027     028     029     052      A1 A1 A1    PASS                      
+                                                                 092  A1 076  C2 083  A2 095  A1 098  A1 096  B2
+22685939   F SWARNIM KUMARI                                      301     065     027     028     029     052      B2 B1 A2    PASS                      
+                                                                 088  A2 068  D1 069  B1 066  B2 091  A1 097  B1
+22685940   F DEEPIKA KUMARI                                      301     065     027     028     030     052      B2 A2 B2    PASS                      
+                                                                 044  D2 051  D2 045  D2 045  D2 047  D2 084  D1
+
+22685941   F SANGITA KUMARI                                      301     065     027     028     030     052      B2 A2 B2    PASS                      
+                                                                 053  D2 053  D2 046  D2 052  C2 048  D1 084  D1
+22685942   F MILI MODAK                                          301     302     027     028     030     052      A2 A1 A2    PASS                      
+                                                                 078  B2 088  A2 060  C1 063  B2 060  C2 100  A1
+22685943   F APURVA SINGH                                        301     241     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 076  C1 065  C1 082  A2 092  A1 093  A1 100  A1
+22685944   F ANUPAMA KUMARI                                      301     302     027     028     029     052      B1 B1 A2    PASS                      
+                                                                 071  C1 064  D1 063  B2 075  B1 087  A2 094  C1
+22685945   F KUMARI ADITI                                        301     302     027     028     029     052      C1 B1 B2    PASS                      
+                                                                 083  B1 071  C2 049  D1 044  D2 082  A2 085  D1
+22685946   F NIDHI RAJ                                           301     302     027     028     029     052      A1 A2 A1    PASS                      
+                                                                 089  A2 088  A2 081  A2 091  A1 098  A1 100  A1
+22685947   F MANTASHA ANJUM                                      301     302     027     028     029     052      A1 A1 A1    PASS                      
+                                                                 060  D1 081  B2 056  C1 079  A2 088  A2 097  B1
+22685948   F ANWESHA RANJAN                                      301     065     027     028     030     052      A2 A2 B1    PASS                      
+                                                                 083  B1 077  C2 066  B2 072  B1 083  A2 091  C2
+22685949   F RIYA KUMARI                                         301     065     027     028     029     052      B1 A2 A2    PASS                      
+                                                                 076  C1 063  D2 081  A2 090  A1 095  A1 096  B2
+22685950   F PAMMI KUMARI                                        301     302     027     028     030     052      A2 A2 B1    PASS                      
+                                                                 085  B1 083  B1 076  A2 089  A1 095  A1 100  A1
+
+22685951   F DIPTI KUMARI                                        301     065     027     028     030     052      B1 A2 B1    PASS                      
+                                                                 050  D2 063  D2 059  C1 045  D2 071  B2 085  D1
+22685952   F SIMRAN SINGH                                        301     065     027     028     029     052      A2 B2 A2    PASS                      
+                                                                 077  B2 071  D1 076  A2 062  B2 089  A2 094  C1
+22685953   F MANASI SINGH                                        301     302     027     028     030     052      B2 C1 B2    PASS                      
+                                                                 083  B1 065  D1 065  B2 066  B2 078  B1 092  C1
+22685954   F TRISHA SEN                                          301     302     027     028     030     052      A2 A2 B2    PASS                      
+                                                                 075  C1 061  D1 063  B2 045  D2 081  B1 088  C2
+
+DATE:- 13-05-2025    C.B.S.E. - SENIOR SCHOOL CERTIFICATE EXAMINATION (MAIN)-2025      REGION: PATNA         PAGE:-      25
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   --------------------SUBJECTS------------------  INT-SB-GRD   RES                COMP
+NO      L X                                                     SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  SUB CD  GR1 GR2 GR3                     SUB
+                                                                MKS GR  MKS GR  MKS GR  MKS GR  MKS GR  MKS GR 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 66245   R K S VIDYA MANDIR DHANSAR DHANBAD JHARKHAND                
+
+22685955   F ANSHIKA KANTH                                       301     302     027     028     030     052      A1 A1 A1    PASS                      
+                                                                 091  A2 086  B1 095  A1 097  A1 098  A1 100  A1
+22685956   F SUPRIYA KUMARI                                      301     065     027     028     030     052      B2 B2 B2    PASS                      
+                                                                 058  D1 051  D2 046  D2 045  D2 072  B2 082  D1
 
 
-TOTAL CANDIDATES :    21 TOTAL PASS :    21 TOTAL COMPTT. :     0 TOTAL ESSENTIAL REPEAT :     0 TOTAL ABSENT :     0
+TOTAL CANDIDATES :   554 TOTAL PASS :   545 TOTAL COMPTT. :     8 TOTAL ESSENTIAL REPEAT :     0 TOTAL ABSENT :     1
